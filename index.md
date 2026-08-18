@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+A microbiology PhD student writing about science, medicine, culture, and whatever else I’m thinking about
