@@ -4,10 +4,6 @@ title: "Nature Didn't Invent Safe"
 categories: science
 ---
 
-For years, manuka honey has been used in hospitals...
-
-## Nature Didn't Invent Safe
-
 For years, manuka honey has been used in hospitals for wound care and sold as a natural alternative to conventional antiseptics. Its antimicrobial activity is well established, but the mechanism is more complicated than the usual explanation suggests. Methylglyoxal has long been considered a major contributor, yet earlier studies found that manuka honey could retain antimicrobial activity even after methylglyoxal was neutralised. Recent work from Aston University has continued to investigate the other components involved, suggesting that its activity comes from several factors rather than a single molecule.¹
 
 Manuka honey raises a broader question about why some substances are trusted more readily than others. A new synthetic drug has to establish its safety through testing, clinical evidence and years of use. Natural substances can arrive with some of that trust already attached to them. Knowing that something is natural tells us where it came from, but it doesn’t tell us whether it is safe or effective. Familiarity is a more useful explanation: something that has been used for generations can feel safer because we have had more time to observe it. That can provide some evidence, but only about that particular substance and how it has been used.
