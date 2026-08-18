@@ -33,10 +33,6 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
-
-header_pages:
-  - science.md
-  - personal.md
   
 defaults:
   - scope:
