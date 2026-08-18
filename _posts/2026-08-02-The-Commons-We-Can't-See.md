@@ -3,7 +3,6 @@ layout: post
 title: "The Commons We Can't See"
 categories: science
 ---
-## The Commons We Can't See
 
 In the summer of 1928, Scottish bacteriologist Alexander Fleming left his messy laboratory bench for a 14-day holiday. When he returned, *Penicillium notatum* had grown in an uncovered culture plate, and to Fleming's surprise, a clear ring had formed around the mould where the surrounding bacteria had died.<sup>1</sup> He had accidentally discovered penicillin, a chemical that could eventually be developed into a drug and drawn upon whenever bacterial infections threatened a life.
 
