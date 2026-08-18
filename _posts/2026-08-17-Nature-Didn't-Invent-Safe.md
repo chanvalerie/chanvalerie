@@ -1,8 +1,4 @@
----
-layout: post
-title: "Nature Didn't Invent Safe"
-categories: science
----
+## Nature Didn't Invent Safe
 
 For years, manuka honey has been used in hospitals for wound care and sold as a natural alternative to conventional antiseptics. Its antimicrobial activity is well established, but the mechanism is more complicated than the usual explanation suggests. Methylglyoxal has long been considered a major contributor, yet earlier studies found that manuka honey could retain antimicrobial activity even after methylglyoxal was neutralised. Recent work from Aston University has continued to investigate the other components involved, suggesting that its activity comes from several factors rather than a single molecule.¹
 
