@@ -1,40 +1,34 @@
 # A Taxonomy of London Men: A 2025 Field Study
 
-## Abstract
+### Abstract
 
-The present study investigates the behavioural diversity of men encountered by a single female researcher through the London dating environment during 2025. Participants were recruited primarily through Hinge, with additional subjects identified through university and social networks. Subjects were subsequently classified according to occupational characteristics, interpersonal behaviour, romantic history, financial signalling and overall suitability for continued investigation.
+The present study investigates the behavioural diversity of men encountered by a single female researcher through the London dating environment from 2024 to 2025. Participants were recruited primarily through Hinge, with additional subjects identified through university and social networks. Subjects were subsequently classified according to occupational characteristics, interpersonal behaviour, romantic history, financial signalling, and overall suitability for continued investigation.
 
-A substantial degree of phenotypic variation was observed. Identified categories included the Finance Bro, the Crazy Rich Asian, the Luxury Car Psychopath, the Athlete, the University Friend, the AI Founder and the Family-Approved Candidate. Several subjects demonstrated characteristics that would ordinarily be considered desirable, although these were not consistently predictive of romantic compatibility. Conversely, certain behavioural characteristics were found to be strongly associated with reduced researcher interest, including unsolicited discussion of former partners, explicit comparison with Victoria's Secret models and joking threats to break the researcher's fingers.
+A substantial degree of phenotypic variation was observed. Identified categories included the Finance Bro, the Crazy Rich Asian, the Luxury Car Psychopath, the Athlete, the University Friend, the AI Founder, and the Family-Approved Candidate. Several subjects demonstrated characteristics that would ordinarily be considered desirable, although these were not consistently predictive of romantic compatibility. Conversely, certain behavioural characteristics were found to be strongly associated with reduced researcher interest, including unsolicited discussion of former partners, explicit comparison with Victoria's Secret models, and joking threats to break the researcher's fingers.
 
 The findings suggest that commonly observed indicators of male desirability, including wealth, physical attractiveness, prestigious employment and proximity to celebrities, have limited predictive value for romantic compatibility. Further longitudinal investigation is required.
 
 
-## 1. Introduction
+### 1. Introduction
 
-Dating in London represents a particularly interesting ecological environment. The population is large, highly mobile and unusually concentrated in individuals who are employed in finance, consulting, technology, law or some combination thereof. Hinge provides a convenient mechanism for sampling this population, allowing researchers to assess potential candidates before committing resources to in-person observation.
+With a population that is large, highly mobile, and unusually concentrated in individuals who are employed in finance, consulting, or technology, dating in London makes for an interesting ecological environment. inge provides a convenient mechanism for sampling this population, allowing researchers to assess potential candidates before committing resources to in-person observation.
 
-Despite the apparent abundance of potential subjects, identifying a suitable long-term candidate remains difficult. Conventional indicators of desirability, such as income, attractiveness, education and social status, appear insufficient to predict whether a researcher will actually want to see a subject again.
+Despite the apparent abundance of potential subjects, identifying a suitable long-term candidate remains difficult. Conventional indicators of desirability, such as income, attractiveness, education and social status, appear insufficient to predict whether a researcher will actually want to see a subject again. The present study therefore sought to classify the different male phenotypes encountered during one year of active participation in the London dating ecosystem.
 
-The present study therefore sought to classify the different male phenotypes encountered during one year of active participation in the London dating ecosystem.
-
-The primary research question was:
-
-**What types of men does one actually encounter when dating in London, and can any of their observable characteristics predict romantic compatibility?**
+The primary research question was: What types of men does one actually encounter when dating in London, and can any of their observable characteristics predict romantic compatibility?
 
 Secondary questions included whether wealth improves dating outcomes, whether being objectively desirable is sufficient to generate attraction, and whether a subject describing himself as a “nice guy” provides any useful predictive information.
 
 
-## 2. Methods
+### 2. Methods
 
-### 2.1 Study population
+#### 2.1 Study population
 
-Male participants were recruited during 2025 through Hinge, university social networks and social events. Participants were not selected according to a predefined sampling framework, owing to the practical difficulties of implementing randomised recruitment within the London dating population.
+Male participants were recruited from June 2024 to August 2025 through Hinge, university social networks, and social events. Participants were not selected according to a predefined sampling framework, owing to the practical difficulties of implementing randomised recruitment within the London dating population. Subjects were initially screened through digital correspondence before being subjected to in-person observation.
 
-Subjects were initially screened through digital correspondence before being subjected to in-person observation.
+#### 2.2 Data collection
 
-### 2.2 Data collection
-
-Data were collected through direct observation during dates, subsequent conversations and researcher reflection following each encounter.
+Data were collected through direct observation during dates, subsequent conversations, and researcher reflection following each encounter.
 
 Variables recorded included:
 
@@ -50,16 +44,16 @@ Variables recorded included:
 
 Where appropriate, follow-up observations were conducted over periods of several weeks or months.
 
-### 2.3 Classification
+#### 2.3 Classification
 
 Subjects were assigned to behavioural categories based on their dominant characteristics. Classification was performed retrospectively and therefore remains vulnerable to researcher bias.
 
 No attempt was made to determine whether the subjects would classify themselves in the same manner.
 
 
-## 3. Results
+### 3. Results
 
-### 3.1 The Finance Bro
+#### 3.1 The Finance Bro
 
 The first major phenotype was represented by a participant employed in private equity at KKR.
 
@@ -76,7 +70,7 @@ The subject nevertheless appeared surprised by the researcher's subsequent lack 
 **Outcome:** No further investigation.
 
 
-### 3.2 The Crazy Rich Asian
+#### 3.2 The Crazy Rich Asian
 
 A second subject exhibited characteristics consistent with the wealthy, celebrity-adjacent Asian male phenotype.
 
@@ -91,7 +85,7 @@ The participant represents a useful example of a recurring phenomenon in the stu
 **Outcome:** No further investigation.
 
 
-### 3.3 The Luxury Car Psychopath
+#### 3.3 The Luxury Car Psychopath
 
 A particularly unusual subject was observed arriving in a rented luxury vehicle.
 
@@ -106,7 +100,7 @@ Although the subject's luxury vehicle and reported romantic history could theore
 **Outcome:** Study terminated immediately.
 
 
-### 3.4 The Athlete
+#### 3.4 The Athlete
 
 The Athlete represented a superficially promising phenotype.
 
@@ -123,7 +117,7 @@ Physical fitness did not appear to confer meaningful protection against alcohol-
 **Outcome:** Further investigation limited by experimental contamination.
 
 
-### 3.5 The University Friend
+#### 3.5 The University Friend
 
 Two related phenotypes were observed among university acquaintances.
 
@@ -135,7 +129,7 @@ The cause of this decline remains unknown. Possible explanations include loss of
 
 **Outcome:** Initial positive response followed by unexplained disappearance.
 
-### 3.6 The Mutual Attraction Phenotype
+#### 3.6 The Mutual Attraction Phenotype
 
 The second university friend represented a particularly interesting case.
 
@@ -148,7 +142,7 @@ Instead, the results suggest that subjects may demonstrate mutual attraction whi
 **Outcome:** Friendship maintained.
 
 
-### 3.7 The AI Founder
+#### 3.7 The AI Founder
 
 The AI Founder was encountered at a boat party rather than through Hinge, providing an independent recruitment pathway.
 
@@ -163,22 +157,18 @@ The findings therefore suggest that **good behaviour is necessary but not necess
 **Outcome:** No romantic progression.
 
 
-### 3.8 The Family-Approved Candidate
+#### 3.8 The Family-Approved Candidate
 
-The Family-Approved Candidate represented another apparently successful phenotype.
+The Family-Approved Candidate represented another apparently successful phenotype. The subject was educated at Eton and Oxford and came from the same place as the researcher's parents, making him unusually well aligned with the characteristics typically favoured by the researcher's family. On paper, the subject appeared to satisfy almost every conceivable parental selection criterion.
 
-The subject remained involved with the researcher for approximately three months and appeared to satisfy several criteria likely to produce positive family approval.
+The subject remained involved with the researcher for approximately three months, during which time the phenotype continued to demonstrate strong compatibility across several observable dimensions. However, following this period, the subject informed the researcher that he was no longer feeling the relationship.
 
-However, following this period, the subject informed the researcher that he was no longer feeling the relationship.
-
-The result demonstrates the limitations of short-term compatibility assessments.
-
-A subject may display high compatibility across observable dimensions while remaining unable or unwilling to maintain romantic interest over time.
+This result demonstrates the limitations of family-assisted selection. Even a subject with near-optimal parental characteristics may fail to maintain romantic interest in the researcher.
 
 **Outcome:** Longitudinal failure.
 
 
-## 4. Discussion
+### 4. Discussion
 
 The present study identified substantial heterogeneity within the London male dating population.
 
@@ -197,7 +187,7 @@ The study further demonstrates that attraction itself does not guarantee relatio
 This raises the possibility that successful dating is not necessarily the process of identifying the objectively best available subject. Instead, it may involve identifying a subject whose characteristics, circumstances and mutual attraction happen to align sufficiently for continued investigation.
 
 
-## 5. Limitations
+### 5. Limitations
 
 The study has several significant limitations.
 
@@ -212,7 +202,7 @@ Fourth, several outcomes were based on subjective assessments of attraction and 
 Finally, the researcher demonstrated a repeated willingness to participate in additional experiments despite accumulating evidence that the experimental environment contained considerable hazards.
 
 
-## 6. Future Works
+### 6. Future Works
 
 Further recruitment through Hinge is not recommended.
 
