@@ -1,1 +1,1 @@
-A microbiology PhD student writing about science, medicine, culture, and whatever else I’m thinking about.
+A microbiology PhD student writing about science, culture, identity, and whatever else floats my boat.
