@@ -8,7 +8,6 @@ A substantial degree of phenotypic variation was observed. Identified categories
 
 The findings suggest that commonly observed indicators of male desirability, including wealth, physical attractiveness, prestigious employment and proximity to celebrities, have limited predictive value for romantic compatibility. Further longitudinal investigation is required.
 
----
 
 ## 1. Introduction
 
@@ -24,7 +23,6 @@ The primary research question was:
 
 Secondary questions included whether wealth improves dating outcomes, whether being objectively desirable is sufficient to generate attraction, and whether a subject describing himself as a “nice guy” provides any useful predictive information.
 
----
 
 ## 2. Methods
 
@@ -58,7 +56,6 @@ Subjects were assigned to behavioural categories based on their dominant charact
 
 No attempt was made to determine whether the subjects would classify themselves in the same manner.
 
----
 
 ## 3. Results
 
@@ -130,14 +127,13 @@ Physical fitness did not appear to confer meaningful protection against alcohol-
 
 Two related phenotypes were observed among university acquaintances.
 
-The first demonstrated sustained prosocial behaviour, including cooking for the researcher and taking her on late-night drives. Unlike several other participants, this subject appeared capable of providing evidence of care without simultaneously producing significant psychological distress.
+The first demonstrated sustained prosocial behaviour, including cooking for the researcher and taking her on late-night drives. Unlike several other subjects, this participant appeared capable of providing care without simultaneously producing significant psychological distress.
 
-The subject therefore demonstrated several characteristics associated with a potentially viable long-term candidate.
+However, following an initially promising period of interaction, the frequency of communication gradually declined. Text messages became less frequent before eventually ceasing altogether, with no further contact initiated by the subject.
 
-However, the precise nature of the relationship remained difficult to classify.
+The cause of this decline remains unknown. Possible explanations include loss of interest, competing environmental factors, or spontaneous withdrawal from the experimental system.
 
-**Outcome:** Ongoing observational interest.
-
+**Outcome:** Initial positive response followed by unexplained disappearance.
 
 ### 3.6 The Mutual Attraction Phenotype
 
@@ -181,7 +177,6 @@ A subject may display high compatibility across observable dimensions while rema
 
 **Outcome:** Longitudinal failure.
 
----
 
 ## 4. Discussion
 
@@ -201,7 +196,6 @@ The study further demonstrates that attraction itself does not guarantee relatio
 
 This raises the possibility that successful dating is not necessarily the process of identifying the objectively best available subject. Instead, it may involve identifying a subject whose characteristics, circumstances and mutual attraction happen to align sufficiently for continued investigation.
 
----
 
 ## 5. Limitations
 
@@ -215,18 +209,18 @@ Third, the study was conducted by a single researcher who was also the primary o
 
 Fourth, several outcomes were based on subjective assessments of attraction and compatibility, which are difficult to quantify and potentially influenced by factors not captured during data collection.
 
-Finally, the researcher demonstrated repeated willingness to participate in additional experiments despite previous evidence that the experimental environment contained considerable hazards.
+Finally, the researcher demonstrated a repeated willingness to participate in additional experiments despite accumulating evidence that the experimental environment contained considerable hazards.
 
----
 
-## 6. Conclusion
+## 6. Future Works
 
-The present study demonstrates that London men cannot be reliably classified according to income, occupation, physical attractiveness or proximity to celebrity.
+Further recruitment through Hinge is not recommended.
 
-The data instead suggest that romantic compatibility remains frustratingly difficult to predict from observable characteristics.
+Following repeated exposure to the London dating environment, the researcher reports no remaining interest in continuing the present line of investigation. The costs associated with participant recruitment, experimental observation and subsequent analysis are no longer considered proportionate to the potential benefits.
 
-Several subjects who appeared highly desirable failed to produce a positive outcome, while subjects displaying comparatively ordinary characteristics generated some of the most successful interactions.
+Future studies should therefore investigate alternative research environments.
 
-The researcher therefore concludes that further investigation is warranted.
+In the absence of a compelling research question, the researcher intends to discontinue the Hinge programme indefinitely.
 
-Whether this investigation should involve additional dates remains under review.
+**Proposed next step**: Stop using Hinge.
+
