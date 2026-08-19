@@ -6,14 +6,14 @@ The present study investigates the behavioural diversity of men encountered by a
 
 A substantial degree of phenotypic variation was observed. Identified categories included the Finance Bro, the Crazy Rich Asian, the Luxury Car Psychopath, the Athlete, the University Friend, the AI Founder, and the Family-Approved Candidate. Several subjects demonstrated characteristics that would ordinarily be considered desirable, although these were not consistently predictive of romantic compatibility. Conversely, certain behavioural characteristics were found to be strongly associated with reduced researcher interest, including unsolicited discussion of former partners, explicit comparison with Victoria's Secret models, and joking threats to break the researcher's fingers.
 
-The findings suggest that commonly observed indicators of male desirability, including wealth, physical attractiveness, prestigious employment and proximity to celebrities, have limited predictive value for romantic compatibility. Further longitudinal investigation is required.
+The findings suggest that commonly observed indicators of male desirability, including wealth, physical attractiveness, prestigious employment, and proximity to celebrities, have limited predictive value for romantic compatibility. Further longitudinal investigation is required.
 
 
 ### 1. Introduction
 
-With a population that is large, highly mobile, and unusually concentrated in individuals who are employed in finance, consulting, or technology, dating in London makes for an interesting ecological environment. inge provides a convenient mechanism for sampling this population, allowing researchers to assess potential candidates before committing resources to in-person observation.
+With a population that is large, highly mobile, and unusually concentrated in individuals who are employed in finance, consulting, or technology, dating scene in London is an interesting ecological environment. Hinge is a convenient mechanism for sampling this population, allowing researchers to assess potential candidates before committing resources to in-person observation.
 
-Despite the apparent abundance of potential subjects, identifying a suitable long-term candidate remains difficult. Conventional indicators of desirability, such as income, attractiveness, education and social status, appear insufficient to predict whether a researcher will actually want to see a subject again. The present study therefore sought to classify the different male phenotypes encountered during one year of active participation in the London dating ecosystem.
+Despite the apparent abundance of potential subjects, identifying a suitable long-term candidate remains difficult. Conventional indicators of desirability, such as income, attractiveness, education, and social status, appear insufficient to predict whether a researcher will actually want to see a subject again. The present study therefore sought to classify the different male phenotypes encountered during one year of active participation in the London dating ecosystem.
 
 The primary research question was: What types of men does one actually encounter when dating in London, and can any of their observable characteristics predict romantic compatibility?
 
