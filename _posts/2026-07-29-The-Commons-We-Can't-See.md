@@ -40,11 +40,11 @@ That is what makes antibiotic stewardship difficult. We are asking people to con
 ---
 
 
-<sup>1. Allcott, G.J., Evans, J., Merry, T.L. and Cox, J.A.G. (2026). Unique mānuka factor (UMF)-dependent antimicrobial activity of mānuka honey against respiratory pathogens cannot be explained by sugar and methylglyoxal alone. Microbiology, 172(8). doi:10.1099/mic.0.001746.</sup>
+<sup>1. American Chemical Society (1999). Alexander Fleming Discovery and Development of Penicillin - Landmark. [online] American Chemical Society. Available at: https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html</sup>
 
-<sup>2. Yip, D.W. and Gerriets, V. (2024). Penicillin. [online] PubMed. Treasure Island (FL): StatPearls Publishing. Available at: https://www.ncbi.nlm.nih.gov/books/NBK554560/</sup>
+<sup>2. Bassetti, S., Tschudin-Sutter, S., Egli, A. and Osthoff, M., 2022. Optimizing antibiotic therapies to reduce the risk of bacterial resistance. European Journal of Internal Medicine [Online], 99, pp.7–12. Available from: https://doi.org/10.1016/j.ejim.2022.01.029.</sup>
 
-<sup>3. Alam, K., Mazumder, A., Sikdar, S., Zhao, Y.-M., Hao, J., Song, C., Wang, Y., Sarkar, R., Islam, S., Zhang, Y. and Li, A. (2022). Streptomyces: The biofactory of secondary metabolites. Frontiers in Microbiology, 13, p.968053. doi:10.3389/fmicb.2022.968053.</sup>
+<sup>3. Martin, M.J., Thottathil, S.E. and Newman, T.B., 2015. Antibiotics Overuse in Animal Agriculture: A Call to Action for Health Care Providers. American Journal of Public Health [Online], 105(12), pp.2409–2410. Available from: https://doi.org/10.2105/AJPH.2015.302870.</sup>
 
-<sup>4. Kim, J. and Scialli, A. (2011). Thalidomide: The tragedy of birth defects and the effective treatment of disease. [online] Toxicological sciences : an official journal of the Society of Toxicology. Available at: https://pubmed.ncbi.nlm.nih.gov/21507989/.</sup>
+<sup>4. World Health Organization, 2024. Antibacterial pipeline trends and recommendations to enhance research and development: policy brief. Geneva: World Health Organization. Available at: https://www.who.int/publications/i/item/9789240097735</sup>
 
