@@ -1,4 +1,4 @@
-# A Taxonomy of London Men: A 2025 Hinge Field Study
+# A Taxonomy of London Men: A Field Study
 
 ## Abstract
 
