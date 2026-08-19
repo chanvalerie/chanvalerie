@@ -10,7 +10,7 @@ The findings suggest that commonly observed indicators of male desirability, inc
 
 ---
 
-# 1. Introduction
+## 1. Introduction
 
 Dating in London represents a particularly interesting ecological environment. The population is large, highly mobile and unusually concentrated in individuals who are employed in finance, consulting, technology, law or some combination thereof. Hinge provides a convenient mechanism for sampling this population, allowing researchers to assess potential candidates before committing resources to in-person observation.
 
@@ -26,15 +26,15 @@ Secondary questions included whether wealth improves dating outcomes, whether be
 
 ---
 
-# 2. Methods
+## 2. Methods
 
-## 2.1 Study population
+### 2.1 Study population
 
 Male participants were recruited during 2025 through Hinge, university social networks and social events. Participants were not selected according to a predefined sampling framework, owing to the practical difficulties of implementing randomised recruitment within the London dating population.
 
 Subjects were initially screened through digital correspondence before being subjected to in-person observation.
 
-## 2.2 Data collection
+### 2.2 Data collection
 
 Data were collected through direct observation during dates, subsequent conversations and researcher reflection following each encounter.
 
@@ -52,7 +52,7 @@ Variables recorded included:
 
 Where appropriate, follow-up observations were conducted over periods of several weeks or months.
 
-## 2.3 Classification
+### 2.3 Classification
 
 Subjects were assigned to behavioural categories based on their dominant characteristics. Classification was performed retrospectively and therefore remains vulnerable to researcher bias.
 
@@ -60,9 +60,9 @@ No attempt was made to determine whether the subjects would classify themselves 
 
 ---
 
-# 3. Results
+## 3. Results
 
-## 3.1 The Finance Bro
+### 3.1 The Finance Bro
 
 The first major phenotype was represented by a participant employed in private equity at KKR.
 
@@ -78,9 +78,8 @@ The subject nevertheless appeared surprised by the researcher's subsequent lack 
 
 **Outcome:** No further investigation.
 
----
 
-## 3.2 The Crazy Rich Asian
+### 3.2 The Crazy Rich Asian
 
 A second subject exhibited characteristics consistent with the wealthy, celebrity-adjacent Asian male phenotype.
 
@@ -94,9 +93,8 @@ The participant represents a useful example of a recurring phenomenon in the stu
 
 **Outcome:** No further investigation.
 
----
 
-## 3.3 The Luxury Car Psychopath
+### 3.3 The Luxury Car Psychopath
 
 A particularly unusual subject was observed arriving in a rented luxury vehicle.
 
@@ -110,9 +108,8 @@ Although the subject's luxury vehicle and reported romantic history could theore
 
 **Outcome:** Study terminated immediately.
 
----
 
-## 3.4 The Athlete
+### 3.4 The Athlete
 
 The Athlete represented a superficially promising phenotype.
 
@@ -128,9 +125,8 @@ Physical fitness did not appear to confer meaningful protection against alcohol-
 
 **Outcome:** Further investigation limited by experimental contamination.
 
----
 
-## 3.5 The University Friend
+### 3.5 The University Friend
 
 Two related phenotypes were observed among university acquaintances.
 
@@ -142,9 +138,8 @@ However, the precise nature of the relationship remained difficult to classify.
 
 **Outcome:** Ongoing observational interest.
 
----
 
-## 3.6 The Mutual Attraction Phenotype
+### 3.6 The Mutual Attraction Phenotype
 
 The second university friend represented a particularly interesting case.
 
@@ -156,9 +151,8 @@ Instead, the results suggest that subjects may demonstrate mutual attraction whi
 
 **Outcome:** Friendship maintained.
 
----
 
-## 3.7 The AI Founder
+### 3.7 The AI Founder
 
 The AI Founder was encountered at a boat party rather than through Hinge, providing an independent recruitment pathway.
 
@@ -172,9 +166,8 @@ The findings therefore suggest that **good behaviour is necessary but not necess
 
 **Outcome:** No romantic progression.
 
----
 
-## 3.8 The Family-Approved Candidate
+### 3.8 The Family-Approved Candidate
 
 The Family-Approved Candidate represented another apparently successful phenotype.
 
@@ -190,7 +183,7 @@ A subject may display high compatibility across observable dimensions while rema
 
 ---
 
-# 4. Discussion
+## 4. Discussion
 
 The present study identified substantial heterogeneity within the London male dating population.
 
@@ -210,7 +203,7 @@ This raises the possibility that successful dating is not necessarily the proces
 
 ---
 
-# 5. Limitations
+## 5. Limitations
 
 The study has several significant limitations.
 
@@ -226,7 +219,7 @@ Finally, the researcher demonstrated repeated willingness to participate in addi
 
 ---
 
-# 6. Conclusion
+## 6. Conclusion
 
 The present study demonstrates that London men cannot be reliably classified according to income, occupation, physical attractiveness or proximity to celebrity.
 
