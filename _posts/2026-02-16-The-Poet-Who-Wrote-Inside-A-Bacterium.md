@@ -1,6 +1,6 @@
 # The Poet Who Wrote Inside a Bacterium
 
-Everything we have ever written is, eventually, temporary. Clay tablets crumble, paper rots, and my OneDrive occasionally decides that a document I worked on for three hours no longer exists (case in point: the first draft of this essay). A Canadian poet called Christian Bök decided that if writing was going to have any chance of lasting, he needed to put it somewhere much better at surviving than we are. Enter *Deinococcus radiodurans*.
+Everything we have ever written is temporary. Clay tablets crumble, paper rots, and my OneDrive occasionally decides that a document I worked on for three hours no longer exists (case in point: the first draft of this essay). A Canadian poet called Christian Bök decided that if writing was going to have any chance of lasting, he needed to put it somewhere much better at surviving than we are. Enter *Deinococcus radiodurans*.
 
 
 *Deinococcus radiodurans* is an extremophilic bacterium famously difficult to kill. Bök spent around twenty-five years trying to preserve a poem inside its genome in his project, *The Xenotext*. In June 2025, Bök and his publisher announced that the project was complete.
