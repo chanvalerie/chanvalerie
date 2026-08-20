@@ -2,7 +2,7 @@
 
 Everything we have ever written is temporary. Clay tablets crumble, paper rots, and my OneDrive occasionally decides that a document I worked on for three hours no longer exists (case in point: the first draft of this essay). A Canadian poet called Christian Bök decided that if writing was going to have any chance of lasting, he needed to put it somewhere much better at surviving than we are. Enter *Deinococcus radiodurans*.
 
-*Deinococcus radiodurans* is an extremophilic bacterium famously difficult to kill. Bök spent around twenty-five years trying to preserve a poem inside its genome in his project, The Xenotext. In June 2025, Bök and his publisher announced that the project was complete.
+*Deinococcus radiodurans* is an extremophilic bacterium famously difficult to kill. Bök spent around 25 years trying to preserve a poem inside its genome in his project, *The Xenotext*. In June 2025, Bök and his publisher announced that the project was complete.
 
 This was the subject of the very first essay I wrote as a lowly microbiology undergrad, and for some reason, *D. radiodurans* has remained one of those pieces of science I keep coming back to. Some might say it's my microbiological Roman Empire.
 
