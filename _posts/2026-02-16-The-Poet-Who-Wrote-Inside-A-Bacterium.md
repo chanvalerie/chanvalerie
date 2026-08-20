@@ -61,6 +61,9 @@ I didn't think about that when I first wrote about D. radiodurans as an undergra
 If nobody is left who can recognise the sequence as a poem, has the poem survived, or has only the information from which a poem could once be reconstructed survived?
 
 ---
+
 <sup>1. Anderson, A W; H C Nordan; R F Cain; G Parrish; D Duggan (1956). "Studies on a radio-resistant micrococcus. I. Isolation, morphology, cultural characteristics, and resistance to gamma radiation". Food Technol. 10 (1): 575–577.</sup>
+
 <sup>2. Fredrickson JKKostandarithes HM, Li SW, Plymale AE, Daly MJ.2000.Reduction of Fe(III), Cr(VI), U(VI), and Tc(VII) byDeinococcus radiodurans R1. Appl Environ Microbiol66:.https://doi.org/10.1128/AEM.66.5.2006-2011.2000</sup>
+
 <sup>3. Slade D, Radman M. Oxidative stress resistance in Deinococcus radiodurans. Microbiol Mol Biol Rev. 2011 Mar;75(1):133-91. doi: 10.1128/MMBR.00015-10. PMID: 21372322; PMCID: PMC3063356.</sup>
