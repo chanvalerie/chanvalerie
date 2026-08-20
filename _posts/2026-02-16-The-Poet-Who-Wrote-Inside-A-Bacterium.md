@@ -8,15 +8,15 @@ This was the subject of the very first essay I wrote as a lowly microbiology und
 
 ### Conan the bacterium
 
-In 1956, a food microbiologist named Arthur W. Anderson subjected a tin of ground meat to radiation doses that were supposed to sterilise it. Something survived anyway, and the surviving organism was initially classified as Micrococcus radiodurans before being reclassified as Deinococcus radiodurans, a name that roughly translates to "terrible berry that withstands radiation". <sup>1</sup>
+In 1956, a food microbiologist named Arthur W. Anderson subjected a tin of ground meat to radiation doses that were supposed to sterilise it. Something survived anyway, and the surviving organism was initially classified as *Micrococcus radiodurans* before being reclassified as *Deinococcus radiodurans*, a name that roughly translates to "terrible berry that withstands radiation". <sup>1</sup>
 
-The name is not an exaggeration: D. radiodurans can survive acute ionising radiation doses of around 15,000 Gy, thousands of times the dose that would be fatal to a human. It can also tolerate severe dehydration and other environmental stresses, which has earned it the nickname “Conan the Bacterium”.<sup>2</sup>
+The name is not an exaggeration: *D. radiodurans* can survive acute ionising radiation doses of around 15,000 Gy, thousands of times the dose that would be fatal to a human. It can also tolerate severe dehydration and other environmental stresses, which has earned it the nickname “Conan the Bacterium”.<sup>2</sup>
 
-Radiation still damages it. Ionising radiation can break its DNA into hundreds of fragments, leaving the genome in pieces that would be catastrophic for most organisms. D. radiodurans carries multiple copies of its genome, allowing overlapping fragments from different copies to act as templates for reconstruction.<sup>3</sup> Through a series of repair processes, including extended synthesis-dependent strand annealing, the cell can gradually rebuild a genome that initially looked beyond repair.
+Radiation still damages it. Ionising radiation can break its DNA into hundreds of fragments, leaving the genome in pieces that would be catastrophic for most organisms. *D. radiodurans* carries multiple copies of its genome, allowing overlapping fragments from different copies to act as templates for reconstruction.<sup>3</sup> Through a series of repair processes, including extended synthesis-dependent strand annealing, the cell can gradually rebuild a genome that initially looked beyond repair.
 
-For a long time, having multiple copies of its genome seemed like the obvious explanation for its resistance. But radiation also generates reactive oxygen species that can oxidise the proteins responsible for repairing DNA. A cell could have plenty of DNA fragments available as templates and still die if the machinery needed to put them back together had already been destroyed. D. radiodurans accumulates unusually high concentrations of manganese, which helps protect proteins from oxidative damage.<sup>3</sup> The bacterium therefore survives radiation by protecting the machinery needed to repair its DNA as well as the DNA itself.
+For a long time, having multiple copies of its genome seemed like the obvious explanation for its resistance. But radiation also generates reactive oxygen species that can oxidise the proteins responsible for repairing DNA. A cell could have plenty of DNA fragments available as templates and still die if the machinery needed to put them back together had already been destroyed. *D. radiodurans* accumulates unusually high concentrations of manganese, which helps protect proteins from oxidative damage.<sup>3</sup> The bacterium therefore survives radiation by protecting the machinery needed to repair its DNA as well as the DNA itself.
 
-DNA is already an information-storage system, and D. radiodurans is unusually good at protecting and repairing its own. Bök wants it to preserve something that has absolutely nothing to do with the bacterium's survival, which is not exactly what evolution has trained bacteria to do.
+DNA is already an information-storage system, and *D. radiodurans* is unusually good at protecting and repairing its own. Bök wants it to preserve something that has absolutely nothing to do with the bacterium's survival, which is not exactly what evolution has trained bacteria to do.
 
 ### Putting a poem into DNA
 
@@ -28,7 +28,7 @@ Making that work is considerably harder than the basic idea makes it sound. DNA 
 
 A DNA sequence also has to produce a protein that actually functions. The resulting amino acid chain needs to fold into a stable structure, and that depends on its chemistry rather than its literary meaning. The gene then has to work inside the organism carrying it, which introduces another set of biological constraints.
 
-The first proof of concept was demonstrated in E. coli, but the challenge was getting the system to work in D. radiodurans. After years of work, Bök announced in 2025, five years after I wrote my undergraduate essay, that the project had finally been completed and that the engineered bacterium could produce the intended response.
+The first proof of concept was demonstrated in *E. coli*, but the challenge was getting the system to work in D. radiodurans. After years of work, Bök announced in 2025, five years after I wrote my undergraduate essay, that the project had finally been completed and that the engineered bacterium could produce the intended response.
 
 There is a caveat worth making here. The final claim comes from Bök and his publisher, in the context of the publication of The Xenotext: Book 2, rather than from an independent peer-reviewed paper reproducing the result. That does not mean the experiment did not work, but it does mean the completion of the project currently rests on a different kind of evidence from the underlying biology.
 
@@ -48,7 +48,7 @@ A bacterial genome survives because the organism carrying it needs that informat
 
 Bök has described the ambition of The Xenotext in terms of creating a work that could survive its author, his civilisation and potentially humanity itself. That makes the project about more than DNA storage. It becomes a question about what it actually means for literature to survive.
 
-Suppose D. radiodurans carries the sequence for millions of years, passing it between generations as its cells divide. Eventually humans disappear while the bacteria remain. The DNA is still there, but nobody knows that it contains a poem.
+Suppose *D. radiodurans* carries the sequence for millions of years, passing it between generations as its cells divide. Eventually humans disappear while the bacteria remain. The DNA is still there, but nobody knows that it contains a poem.
 
 There is a sequence. There may even be a protein. What has disappeared is the reader who can recognise either as literature.
 
@@ -56,7 +56,7 @@ We normally imagine a poem surviving because its words continue to be read. Shak
 
 Bök removes that requirement. His poem could, in theory, outlive everyone capable of understanding it. The bacterium could carry the sequence long after the language, culture and civilisation that gave it meaning had disappeared.
 
-I didn't think about that when I first wrote about D. radiodurans as an undergraduate. At the time, the impressive part seemed to be that a poem could be put into DNA. Now I find the more interesting question is whether preserving the information is enough to preserve the thing itself.
+I didn't think about that when I first wrote about *D. radiodurans* as an undergraduate -- at the time, the impressive part seemed to be that a poem could be put into DNA. Now I find the more interesting question is whether preserving the information is enough to preserve the thing itself.
 
 If nobody is left who can recognise the sequence as a poem, has the poem survived, or has only the information from which a poem could once be reconstructed survived?
 
