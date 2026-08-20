@@ -65,6 +65,8 @@ If nobody is left who can recognise the sequence as a poem, has the poem survive
 
 <sup>2. Fredrickson JKKostandarithes HM, Li SW, Plymale AE, Daly MJ.2000.Reduction of Fe(III), Cr(VI), U(VI), and Tc(VII) byDeinococcus radiodurans R1. Appl Environ Microbiol66:.https://doi.org/10.1128/AEM.66.5.2006-2011.2000</sup>
 
+<sup>3. Zahradka, K., Zahradka, D. and Repar, J. (2024). Structural Differences between the Genomes of Deinococcus radiodurans Strains from Different Laboratories. Genes, [online] 15(7), p.847. doi:10.3390/genes15070847.</sup>
+
 <sup>4. Slade D, Radman M. Oxidative stress resistance in Deinococcus radiodurans. Microbiol Mol Biol Rev. 2011 Mar;75(1):133-91. doi: 10.1128/MMBR.00015-10. PMID: 21372322; PMCID: PMC3063356.</sup>
 
 <sup>5. Levy, N. (2025). ‘Conan the Bacterium’ Is Now a Poet. [online] Cockrell School of Engineering - University of Texas at Austin. Available at: https://cockrell.utexas.edu/news/conan-the-bacterium-is-now-a-poet.</sup> 
