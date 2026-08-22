@@ -2,7 +2,7 @@
 
 I’m writing this from Gatwick Airport, waiting to board a flight to Jakarta.
 
-There is something strange about airports when you travel between two lives. They are supposed to be places you pass through, but I have spent enough time in them to feel like they are their own kind of home. You arrive as one version of yourself and, somewhere between security and the departure gate, begin becoming another. At Gatwick, I am still very much the person I have become in England, but I am already thinking about who I will be when I arrive. For a few hours, both versions of my life exist at the same time.
+There is something strange about airports when you travel between two lives. They are supposed to be places you pass through, but I’ve spent enough time in them to feel like they are their own kind of home. You arrive as one version of yourself and, somewhere between security and the departure gate, begin becoming another. At Gatwick, I’m still very much the person I have become in England, but I’m already thinking about who I will be when I arrive. For a few hours, both versions of my life exist at the same time.
 
 I notice it most when I’m flying to Indonesia. In England, I am used to doing things for myself. I make my own plans, decide where I go and what I spend my money on, and can decide to fly somewhere for the weekend just because I feel like it. There is a particular freedom in having a life that is entirely your own, and after years of living this way, I have become very comfortable with it. Then I get on a plane to Jakarta and, somewhere over the Indian Ocean, that independence starts to loosen.
 
