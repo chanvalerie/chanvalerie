@@ -43,19 +43,13 @@ A bacterial genome survives because the organism carrying it needs that informat
 
 ### Can literature survive without a reader?
 
-Bök has described the ambition of The Xenotext in terms of creating a work that could survive its author, his civilisation and potentially humanity itself. That makes the project about more than DNA storage. It becomes a question about what it actually means for literature to survive.
+Bök has described the ambition of The Xenotext in terms of creating a work that could survive its author, civilisation, and potentially humanity itself, which makes the project about more than DNA storage and turns it into a question about what it actually means for literature to survive.
 
-Suppose *D. radiodurans* carries the sequence for millions of years, passing it between generations as its cells divide. Eventually humans disappear while the bacteria remain. The DNA is still there, but nobody knows that it contains a poem.
+Suppose *D. radiodurans* carries the sequence for millions of years, passing it between generations as its cells divide, until eventually humans disappear while the bacteria remain. The DNA is still there, and there may even be a protein produced from the sequence, but nobody knows that either has anything to do with a poem; the reader who could recognise it as literature has disappeared along with the language, culture, and civilisation that gave it meaning.
 
-There is a sequence and there may even be a protein. The reader who can recognise either as literature disappears.
+We normally imagine a poem surviving because its words continue to be read. Shakespeare survives because someone can still open a book and understand what he wrote, while the paper itself is incidental to that survival: the poem persists because its meaning can still be recovered. Bök removes that requirement, because his poem could, in theory, outlive everyone capable of understanding it, with the bacterium carrying its sequence long after the civilisation that gave it meaning has disappeared.
 
-We normally imagine a poem surviving because its words continue to be read. Shakespeare survives because someone can still open a book and understand what he wrote. The paper is incidental. What matters is that the meaning can be recovered.
-
-Bök removed that requirement in that his poem could, in theory, outlive everyone capable of understanding it. The bacterium could carry the sequence long after the language, culture, and civilisation that gave it meaning had disappeared.
-
-I didn't think about that when I first wrote about *D. radiodurans* as an undergraduate -- at the time, the impressive part seemed to be that a poem could be put into DNA. Now I find the more interesting question is whether preserving the information is enough to preserve the thing itself.
-
-If nobody is left who can recognise the sequence as a poem, has the poem survived, or has only the information from which a poem could once be reconstructed survived?
+I didn’t think about that when I first wrote about *D. radiodurans* as an undergrad; at the time, the impressive part seemed to be that a poem could be put into DNA. Now I find the more interesting question is whether preserving the information is enough to preserve the thing itself. If nobody is left who can recognise the sequence as a poem, has the poem survived, or has only the information from which a poem could once have been reconstructed survived?
 
 ---
 
