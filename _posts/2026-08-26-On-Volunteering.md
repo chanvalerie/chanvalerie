@@ -34,5 +34,6 @@ I’m going back to Manggarai with a much less certain idea of what it means to 
 
 I’m still proud of what we did when I was 16, and I don’t need to decide that it was either entirely right or secretly harmful in order to question it. What has changed is that I no longer see the willingness to help, or even the ability to help, as proof that I understand what someone else needs. Sometimes helping means knowing what to give, but before that, it means accepting that you might be wrong about what giving should look like.
 
-——
+___
+
 <sup>1. van Doore KE and Nhep R (2023) Orphanage tourism and orphanage volunteering: implications for children. Front. Sustain. Tour. 2:1177091. doi: 10.3389/frsut.2023.1177091</sup>
