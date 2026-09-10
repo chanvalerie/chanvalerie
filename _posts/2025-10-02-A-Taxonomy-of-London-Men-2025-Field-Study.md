@@ -96,7 +96,7 @@ Although the subject's luxury vehicle and reported romantic history could theore
 
 The Athlete represented a superficially promising phenotype.
 
-The subject demonstrated high physical fitness and appeared to possess several characteristics traditionally associated with attractiveness. However, during the date, alcohol consumption exceeded the subject's physiological tolerance. The subsequent journey home resulted in the subject vomiting throughout the Uber.
+The subject demonstrated high physical fitness and appeared to possess several characteristics traditionally associated with attractiveness. However, during the date, alcohol consumption exceeded the subject's physiological tolerance. The subsequent journey home resulted in the subject exposing the researcher to significant amounts of his own vomit.
 
 This observation demonstrates the importance of distinguishing between baseline phenotype and phenotype under environmental stressors. Physical fitness did not appear to confer meaningful protection against alcohol-induced gastrointestinal failure.
 
