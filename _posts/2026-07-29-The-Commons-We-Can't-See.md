@@ -6,6 +6,8 @@ Call it a commons and you might get funny looks from people who take the word se
 
 Antibiotic stewardship attempts to manage exactly this, but it’s a hard sell. I don’t necessarily think it’s because people don’t know the facts either; in fact most clinicians should be able to recite the statistics on antibiotic resistance. The harder problem is what happens when those facts have to compete with the pressures of making decisions in the moment.
 
+---
+
 Each course of antibiotics kills susceptible bacteria while allowing resistant ones to survive and multiply.<sup>2</sup> A single prescription makes little difference, but billions of prescriptions exert cumulative pressure on bacterial populations, increasing the prevalence of resistance over time. The resulting loss of antibiotic effectiveness is difficult to see: there is no stockpile to measure and no obvious point at which it runs out. It also doesn’t happen at the same rate everywhere. A drug can remain highly effective in one hospital while resistance makes it much less useful elsewhere. Resistance develops unevenly across bacteria, patients and places, so what looks like one global decline is really the accumulation of many smaller changes.
 
 This is why antibiotics are difficult to manage as a shared resource. While fisheries can impose quotas and grazing land can have rotation schedules, there is no equivalent system governing antibiotic use across healthcare systems and individual prescribers. Each decision is made locally, while the consequences can appear somewhere else years later. The person making the decision to prescribe an antibiotic therefore rarely bears the full cost of the resistance that use may contribute to.
