@@ -6,7 +6,7 @@ Everything we have ever written is temporary. Clay tablets crumble, paper rots, 
 
 This was the subject of the very first essay I wrote as a lowly microbiology undergrad, and for some reason, *D. radiodurans* has remained one of those pieces of science I keep coming back to. Some might say it's my microbiological Roman Empire.
 
-### Conan the bacterium
+---
 
 In 1956, a food microbiologist named Arthur W. Anderson subjected a tin of ground meat to radiation doses that were supposed to sterilise it. Something survived anyway, and the surviving organism was initially classified as *Micrococcus radiodurans* before being reclassified as *Deinococcus radiodurans*, a name that roughly translates to "terrible berry that withstands radiation". <sup>1</sup> The name isn’t an exaggeration either: *D. radiodurans* can survive acute ionising radiation doses of around 15,000 Gy, thousands of times the dose that would be fatal to a human. It can also tolerate severe dehydration and other environmental stresses, which has earned it the nickname “Conan the Bacterium”.<sup>2</sup>
 
@@ -16,7 +16,7 @@ For a long time, having multiple copies of its genome seemed like the obvious ex
 
 DNA is already an information-storage system, and *D. radiodurans* is strangely good at protecting and repairing its own. Bök wants it to preserve something that has absolutely nothing to do with the bacterium's survival, which is not exactly what evolution has trained bacteria to do.
 
-### Putting a poem into DNA
+---
 
 Bök wrote a short poem called "Orpheus" and converted it into a sequence of synthetic DNA using a custom cipher that assigns letters to DNA codons. That sequence could then be inserted into a bacterium and treated as a gene.
 
@@ -29,7 +29,7 @@ A DNA sequence also has to produce a protein that actually functions. The result
 The first proof of concept was demonstrated in *E. coli*, but the challenge was getting the system to work in *D. radiodurans*. After years of work, Bök announced in 2025, 5 years after I wrote my undergraduate essay, that the project had finally been completed and that the engineered bacterium could produce the intended response.
 
 
-### What does the bacterium actually preserve?
+---
 
 *D. radiodurans* is extraordinarily good at repairing its genome because its genome matters to it. The information encoded in its DNA determines how the cell functions, so mutations that damage essential genes can prevent it from surviving or reproducing. Natural selection therefore favours cells that are good at preserving that information.
 
@@ -41,7 +41,7 @@ As an undergraduate, I was mostly interested in whether a bacterium could store 
 
 A bacterial genome survives because the organism carrying it needs that information to function. A poem survives because someone considers its meaning worth carrying forward. Both can exist as sequences of bases, but they are preserved for completely different reasons.
 
-### Can literature survive without a reader?
+---
 
 Bök has described the ambition of The Xenotext in terms of creating a work that could survive its author, civilisation, and potentially humanity itself, which makes the project about more than DNA storage and turns it into a question about what it actually means for literature to survive.
 
