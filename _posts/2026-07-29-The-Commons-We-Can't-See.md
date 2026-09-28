@@ -2,9 +2,8 @@
 
 In the summer of 1928, Scottish bacteriologist Alexander Fleming left his messy laboratory bench for a 14-day holiday. When he returned, *Penicillium notatum* had grown in an uncovered culture plate, and to Fleming's surprise, a clear ring had formed around the mould where the surrounding bacteria had died.<sup>1</sup> He had accidentally discovered penicillin, a chemical that could eventually be developed into a drug and drawn upon whenever bacterial infections threatened a life.
 
-Call it a commons and you might get funny looks from people who take the word seriously. A commons is supposed to be something physical that you can see and watch deplete: perhaps a pasture or a fishing ground. You can’t watch antibiotic effectiveness deplete because what’s being depleted is a probability rather than a stockpile. Each use can shift the odds in favour of resistant bacteria, gradually reducing the chance that the same drug will still work when we need it. I’m not completely convinced “commons” is the perfect word for that, but the underlying problem is the same, so I’m going to keep using it.
+Call it a commons and you might get funny looks from people who take the word seriously. A commons is supposed to be something physical that you can see and watch deplete: perhaps a pasture or a fishing ground. You can’t watch antibiotic effectiveness deplete because what’s being depleted is a probability rather than a stockpile. Each use can shift the odds in favour of resistant bacteria, gradually reducing the chance that the same drug will still work when we need it. 
 
-### Who pays for resistance?
 Antibiotic stewardship attempts to manage exactly this, but it’s a hard sell. I don’t necessarily think it’s because people don’t know the facts either; in fact most clinicians should be able to recite the statistics on antibiotic resistance. The harder problem is what happens when those facts have to compete with the pressures of making decisions in the moment.
 
 Each course of antibiotics kills susceptible bacteria while allowing resistant ones to survive and multiply.<sup>2</sup> A single prescription makes little difference, but billions of prescriptions exert cumulative pressure on bacterial populations, increasing the prevalence of resistance over time. The resulting loss of antibiotic effectiveness is difficult to see: there is no stockpile to measure and no obvious point at which it runs out. It also doesn’t happen at the same rate everywhere. A drug can remain highly effective in one hospital while resistance makes it much less useful elsewhere. Resistance develops unevenly across bacteria, patients and places, so what looks like one global decline is really the accumulation of many smaller changes.
@@ -15,13 +14,12 @@ Stewardship campaigns tend to treat overprescribing as an education problem, but
 
 Additionally, nearly all the public conversation about stewardship focuses on doctors and patients, yet substantial antibiotic use also occurs outside healthcare. In livestock farming, antibiotics may be used to treat disease, prevent infections or, in some countries, promote growth.<sup>3</sup> Resistant bacteria can then move beyond farms through food, water and contact with workers.  This part of the problem is harder to picture. Most people can picture a patient asking a doctor for antibiotics; far fewer will ever see antibiotics being used routinely on a farm. That difference in visibility can make some sources of antibiotic use seem more important than others, even though resistance can emerge from any of them.
 
-
-### Who pays for 
 Another problem further upstream is that effective stewardship can make antibiotics unattractive to pharmaceutical companies. From a public-health perspective, a successfully stewarded antibiotic is one that is used as little as possible and reserved for when it’s actually needed. For a company that has spent hundreds of millions developing it, that means limited sales and a poor return on investment. Several pharmaceutical companies have left antibiotic development over the past two decades, while some smaller companies have struggled even after bringing new antibiotics to market.<sup>4</sup> The mismatch is straightforward: the public needs new antibiotics to be available but used sparingly, while companies need to generate enough revenue to recover the cost of developing them.
 
 For this reason, improving prescribing alone cannot solve that problem — the incentives for developing new antibiotics have to change too.
 
-### What do we owe future patients?
+---
+
 Most public health messages work because they offer a personal benefit: get your vaccine and you reduce your chance of getting sick; wear a seatbelt and you increase your chance of surviving a crash. The collective benefit is important, but people are more likely to act when they can see what they would gain themselves.
 
 Stewardship doesn’t offer that kind of immediate personal benefit. If you skip an antibiotic your body could have fought off without, and you get little in return. The benefit may come years later, to people you will never meet, and you will never see the result. It asks people to give something up now for a benefit that is distant and shared.
