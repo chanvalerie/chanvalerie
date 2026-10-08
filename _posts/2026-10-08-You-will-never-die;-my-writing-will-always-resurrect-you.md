@@ -28,7 +28,7 @@ I could write you into a poem tonight, and centuries from now someone could read
 
 *I will give you a thousand lives.*
 
-In one poem, you will be constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you will walk through rooms that no longer exist, touch windows that have already shattered, stand beneath seasons that have already passed. I will keep rebuilding the world around you so that you never have to leave it.
+In one poem, you will be the constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you will walk through rooms that no longer exist, touch windows that have already shattered, stand beneath seasons that have already passed. I will keep rebuilding the world around you so that you never have to leave it.
 
 And every time someone reads you, you will happen again. That is the closest thing to resurrection I know. 
 
