@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You will never die; my writing will always resurrect you.md
+title: "You will never die; my writing will always resurrect you.md"
 date: 2026-10-08
 ---
 
