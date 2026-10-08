@@ -30,6 +30,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+collections:
+  personal: # collection for personal blog posts
+    output: true
+    
 titles_from_headings:
   strip_title: true
   collections: true
