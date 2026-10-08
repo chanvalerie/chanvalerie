@@ -1,6 +1,7 @@
 # You will never die; my writing will always resurrect you
 *To be loved by a writer is to be condemned to eternity -- for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose*
-___
+
+#
 
 You will never die; I have already made you immortal.
 
