@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "You will never die; my writing will always resurrect you.md"
+title: "To Be Loved By a Writer.md"
 date: 2026-10-08
 ---
 
 # You will never die; my writing will always resurrect you
-*To be loved by a writer is to be condemned to eternity -- for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose*
+*To be loved by a writer is to be condemned to eternity -- for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose.*
 
 ---
 
