@@ -33,7 +33,7 @@ layout: default
 
   {%- if site.personal.size > 0 -%}
     {%- assign personalPosts = site.personal | sort: date | reverse -%}
-    <h2 class="post-list-heading">Latest Personal Writing and Prose</h2>
+    <h2 class="post-list-heading">Latest Personal Writing</h2>
     <ul class="post-list">
       {%- assign post_limit = site.home_post_limit | default: 5 -%}
       {%- for post in personalPosts limit:post_limit -%}
