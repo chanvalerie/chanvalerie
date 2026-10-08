@@ -7,13 +7,13 @@ Not in the way religions promise heaven, nor in the way monuments pretend stone 
 
 I write you the way historians write civilisations they are terrified will be forgotten. Thoroughly. Obsessively. With the desperate precision of someone cataloguing ruins before the last wall collapses. I remember the smallest things because writers are cruel archivists; we preserve what time was supposed to destroy. The cadence of your voice. The shape of your absence. The gravity you carried into a room without ever asking to be noticed. Every detail becomes evidence. Every memory becomes a document. 
 
-*You could disappear from photographs. Your footprints could be erased by rain. Years could be pass over your name until no one remembers how it once sounded in the mouth of the person who loved you.*
+*You could disappear from photographs. Your footprints could be erased by rain. Years could pass over your name until no one remembers how it once sounded in the mouth of the person who loved you.*
 
 But it would not matter. I would still have the page.
 
 That is the terrifying privilege of being loved by a writer: I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect *presence* – the impression of a hand against a doorway, the ghost of a voice caught inside a paragraph, the outline of someone who once stood beneath a particular sky and looked at the world as though it had not yet broken him.
 
-*Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, refusing to become nothing.*
+Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, refusing to become nothing.
 
 So I suppose writing is my version of physics.
 
