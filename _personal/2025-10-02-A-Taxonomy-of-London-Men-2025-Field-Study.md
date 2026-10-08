@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Taxonomy of London Men: 2025 Field Study.md
+title: "A Taxonomy of London Men: 2025 Field Study.md"
 date: 2025-10-02
 ---
 
