@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Scientific Writing" }}</h2>
     <ul class="post-list">
       {%- assign post_limit = site.home_post_limit | default: 5 -%}
       {%- for post in site.posts limit:post_limit -%}
@@ -34,7 +34,7 @@ layout: default
 
   {%- if site.personal.size > 0 -%}
     {%- assign personalPosts = site.personal | sort: date | reverse -%}
-    <h2 class="post-list-heading">Latest Personal Posts</h2>
+    <h2 class="post-list-heading">Latest Personal Writing and Prose</h2>
     <ul class="post-list">
       {%- assign post_limit = site.home_post_limit | default: 5 -%}
       {%- for post in personalPosts limit:post_limit -%}
