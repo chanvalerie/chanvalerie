@@ -48,10 +48,10 @@ opacity: 0.3;
 /* Homepage section headings /
 / Latest Scientific Writing / Latest Personal Writing */
 .home .post-list-heading {
-font-size: 20px;
+font-size: 18px;
 }
 
 /* Homepage post titles */
 .home .post-list .post-link {
-font-size: 16px;
+font-size: 14px;
 }
