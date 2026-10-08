@@ -43,3 +43,8 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* Smaller post titles on the homepage */
+.home .post-list .post-link {
+font-size: 15px;
+}
