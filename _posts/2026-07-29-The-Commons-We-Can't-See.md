@@ -20,7 +20,7 @@ A further problem exists upstream of prescribing. Effective stewardship can make
 
 Improving prescribing practices alone therefore cannot resolve the problem. The economic incentives surrounding antibiotic development also need to change.
 
-Most public health interventions are effective partly because they offer an immediate personal benefit. Vaccination reduces an individual's risk of infection, while wearing a seatbelt increases the chance of surviving a crash. The collective benefit matters, but people are often more willing to change their behaviour when they can identify what they themselves stand to gain.
+Most public health interventions are effective partly because they offer an immediate personal benefit. Vaccination reduces an individual's risk of infection, while wearing a seatbelt increases the chance of surviving a crash. The collective benefit is important, but people are often more willing to change their behaviour when they can identify what they themselves stand to gain.
 
 Stewardship offers no comparable immediate benefit. If you decline an antibiotic for an infection that your body could have overcome without treatment, there may be little obvious reward. The benefit may arrive years later, to people you will never meet, and you will never see the outcome. Stewardship therefore asks people to accept a cost or inconvenience now for a benefit that is distant and collectively shared.
 
@@ -32,7 +32,7 @@ That future is not predetermined. New antibiotics may be developed, diagnostic t
 
 This does not make awareness campaigns irrelevant. Education and clear guidelines can reduce unnecessary prescribing, particularly in straightforward cases where antibiotics are clearly inappropriate. However, changing individual behaviour addresses only part of the problem. A GP must still weigh the immediate risk of withholding treatment against a benefit that may not be realised for years, while a pharmaceutical company has limited financial incentive to develop a drug that public health policy subsequently asks clinicians to use sparingly. The incentives are therefore poorly aligned with the outcome that everyone claims to want: antibiotics that remain effective and available when they are genuinely needed.
 
-This is what makes antibiotic stewardship so difficult. We are asking people to conserve a resource they cannot see, whose depletion is uneven, and whose consequences may fall on someone else many years later. If antibiotic effectiveness is understood as a commons, protecting it cannot depend on individual restraint alone. The systems surrounding antibiotics must also create incentives that make preserving their effectiveness worthwhile.
+This is what makes antibiotic stewardship so difficult. We are asking people to conserve a resource they cannot see, whose depletion is uneven, and whose consequences may fall on someone else many years later. If antibiotic effectiveness is understood as a commons, protecting it cannot depend on individual restraint alone -- the systems surrounding antibiotics must also create incentives that make preserving their effectiveness worthwhile.
 
 
 
