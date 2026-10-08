@@ -1,6 +1,7 @@
 # You will never die; my writing will always resurrect you
 *To be loved by a writer is to be condemned to eternity -- for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose*
-____
+___
+
 You will never die; I have already made you immortal.
 
 Not in the way religions promise heaven, nor in the way monuments pretend stone can resist time. I mean something far more dangerous: you exist now in language, *and language has always been humanity’s most beautiful refusal to accept death*. I have written your name into the architecture of my sentences, buried it beneath metaphors, hidden it between commas and the spaces where I could not bear to say what I meant. You are no longer a person who lived; you are a sentence that refuses to end.
