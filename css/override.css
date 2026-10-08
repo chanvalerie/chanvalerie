@@ -45,13 +45,12 @@ font-size: 2.5em;
 opacity: 0.3;
 }
 
-/* Homepage section headings /
-/ Latest Scientific Writing / Latest Personal Writing */
-.home .post-list-heading {
-font-size: 18px;
+/* Force smaller homepage section headings */
+.home h2.post-list-heading {
+font-size: 20px !important;
 }
 
-/* Homepage post titles */
-.home .post-list .post-link {
-font-size: 14px;
+/* Force smaller homepage post titles */
+.home .post-list h3 a.post-link {
+font-size: 16px !important;
 }
