@@ -1,4 +1,4 @@
-# The Poet Who Wrote Inside A Bacterium 
+# On the Xenotext
 
 Everything we write is vulnerable to time. Clay tablets fracture, paper decays, and digital documents like the first draft of this essay can disappear with a failed hard drive. Our methods of preserving knowledge have become increasingly sophisticated, yet they remain dependent on the continued existence of the materials, technologies, and institutions that sustain them. One attempt to rethink literary preservation comes from Canadian poet Christian Bök. His ongoing project, The Xenotext, uses the DNA of the radiation-resistant bacterium Deinococcus radiodurans as a medium for poetry. And after approximately 25 years of work, Bök and his publisher announced the project’s completion in June 2025.
 
