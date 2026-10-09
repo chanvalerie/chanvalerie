@@ -54,6 +54,7 @@ We preserve books and archives in the hope that their contents will remain acces
 The sequence might therefore persist long after the context needed to interpret it has disappeared. Its words could remain recoverable even if the language and literary traditions through which they acquired meaning were lost. Whether this would count as the survival of the poem depends on how much of a literary work we locate in the information it contains, and how much in the possibility of someone interpreting it.
 
 ---
+&nbsp;
 
 <sup>1. Anderson, A W; H C Nordan; R F Cain; G Parrish; D Duggan (1956). "Studies on a radio-resistant micrococcus. I. Isolation, morphology, cultural characteristics, and resistance to gamma radiation". Food Technol. 10 (1): 575–577.</sup>
 
