@@ -11,7 +11,7 @@ date: 2026-10-08
 
 You will never die; I have already made you immortal.
 
-Not in the way religions promise heaven, nor in the way monuments pretend stone can resist time. I mean something far more dangerous: you exist now in language, *and language has always been humanity’s most beautiful refusal to accept death*. I have written your name into the architecture of my sentences, buried it beneath metaphors, hidden it between commas and the spaces where I could not bear to say what I meant. You are no longer a person who lived; you are a sentence that refuses to end.
+Not in the way religions promise heaven, nor in the way monuments pretend stone can resist time. You exist now in language, *and language has always been humanity’s most beautiful refusal to accept death*. I have written your name into the architecture of my sentences, buried it beneath metaphors, hidden it between commas and the spaces where I could not bear to say what I meant. You are no longer a person who lived; you are a sentence that refuses to end.
 
 I write you the way historians write civilisations they are terrified will be forgotten. Thoroughly. Obsessively. With the desperate precision of someone cataloguing ruins before the last wall collapses. I remember the smallest things because writers are cruel archivists; we preserve what time was supposed to destroy. The cadence of your voice. The shape of your absence. The gravity you carried into a room without ever asking to be noticed. Every detail becomes evidence. Every memory becomes a document. 
 
