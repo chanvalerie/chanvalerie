@@ -30,6 +30,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+google_analytics:
+  - ${JEKYLL_CONFIG_GOOGLE_ANALYICS}
+  
 collections:
   personal: # collection for personal blog posts
     output: true
