@@ -1,4 +1,4 @@
-# On Minds and Organisms
+# Intelligence Without a Mind
 
 We tend to recognise intelligence through what an organism can do. When an animal finds its way through a maze, we infer that it has processed information about its surroundings and adjusted its behaviour accordingly. *Physarum polycephalum*, commonly known as a slime mould, is a single-celled organism that forms a spreading network of interconnected tubes rather than a body organised around a brain or nervous system. The tubes continually change in thickness, transporting nutrients through the organism as it grows across surfaces in search of food. Despite lacking neurons, *Physarum* can navigate mazes, reorganise its network in response to its surroundings, and form efficient connections between food sources. Its behaviour resembles problem-solving, although the biological processes producing it do not align with what we usually associate with thought.
 
