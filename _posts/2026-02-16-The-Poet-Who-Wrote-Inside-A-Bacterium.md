@@ -5,6 +5,7 @@ Everything we have ever written is temporary. Clay tablets crumble, paper rots, 
 *Deinococcus radiodurans* is an extremophilic bacterium that is famously difficult to kill. Bök spent around 25 years trying to preserve a poem inside its genome in his project, *The Xenotext*. In June 2025, Bök and his publisher announced that the project was complete.
 
 This was the subject of the very first essay I wrote as a lowly microbiology undergrad, and for some reason, *D. radiodurans* has remained one of those pieces of science I keep coming back to. Some might say it's my microbiological Roman Empire.
+
 &nbsp;
 ---
 
