@@ -1,5 +1,6 @@
 ## The Commons We Can't See
 
+
 In the summer of 1928, Scottish bacteriologist Alexander Fleming left his laboratory bench for a 14-day holiday. When he returned, Penicillium notatum had grown in an uncovered culture plate, and to his surprise, a clear zone had formed around the mould where the surrounding bacteria had been inhibited <sup>1</sup>. He had accidentally discovered penicillin, a substance that could eventually be developed into a drug and drawn upon whenever bacterial infections threatened human life.
 
 Call it a commons and you might get funny looks from people who take the word seriously. A commons is usually understood as something physical that can be observed and depleted, such as a pasture or fishing ground. Antibiotic effectiveness is different in that you cannot watch it deplete; what is being depleted is a probability rather than a stockpile. Each use can shift the odds in favour of resistant bacteria, gradually reducing the likelihood that the same drug will remain effective when it is needed.
@@ -36,9 +37,8 @@ This is what makes antibiotic stewardship so difficult. We are asking people to 
 
 
 
-
 ---
-
+&nbsp;
 
 <sup>1. American Chemical Society (1999). Alexander Fleming Discovery and Development of Penicillin - Landmark. [online] American Chemical Society. Available at: https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html</sup>
 
