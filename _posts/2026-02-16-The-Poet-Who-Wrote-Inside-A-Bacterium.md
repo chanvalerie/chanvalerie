@@ -5,11 +5,10 @@ Everything we have ever written is temporary. Clay tablets crumble, paper rots, 
 *Deinococcus radiodurans* is an extremophilic bacterium that is famously difficult to kill. Bök spent around 25 years trying to preserve a poem inside its genome in his project, *The Xenotext*. In June 2025, Bök and his publisher announced that the project was complete.
 
 This was the subject of the very first essay I wrote as a lowly microbiology undergrad, and for some reason, *D. radiodurans* has remained one of those pieces of science I keep coming back to. Some might say it's my microbiological Roman Empire.
-
+&nbsp;
 ---
 
 &nbsp;
-
 In 1956, a food microbiologist named Arthur W. Anderson subjected a tin of ground meat to radiation doses that were supposed to sterilise it. Something survived anyway, and the surviving organism was initially classified as *Micrococcus radiodurans* before being reclassified as *Deinococcus radiodurans*, a name that roughly translates to "terrible berry that withstands radiation". <sup>1</sup> The name isn’t an exaggeration : *D. radiodurans* can survive acute ionising radiation doses of around 15,000 Gy, thousands of times the dose that would be fatal to a human. It can also tolerate severe dehydration and other environmental stresses, which has earned it the nickname “Conan the Bacterium”.<sup>2</sup>
 
 To be clear, radiation still damages it. Ionising radiation can break its DNA into hundreds of fragments, leaving the genome in pieces that would be catastrophic for most organisms. *D. radiodurans* carries multiple copies of its genome, allowing overlapping fragments from different copies to act as templates for reconstruction. Through a series of repair processes, including extended synthesis-dependent strand annealing, the cell can gradually rebuild a genome that initially looked beyond repair.<sup>3</sup>
