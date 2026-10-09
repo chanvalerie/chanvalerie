@@ -4,17 +4,25 @@ hr {
   margin-bottom: 40px;
 }
 
-/* Make latest post lists smaller */
-.post-list {
-  font-size: 0.9em;
+/* Tighten homepage post list sizing */
+.home .post-list {
+  font-size: 0.78em;
+  line-height: 1.4;
+  margin-top: 0.75rem;
 }
 
-.post-list h3 {
-  font-size: 1.1em;
+.home .post-list li {
+  margin-bottom: 0.5rem;
 }
 
-.post-list .post-meta {
-  font-size: 0.85em;
+.home .post-list h3 {
+  font-size: 1.05em;
+  margin: 0.15rem 0 0.2rem 0;
+}
+
+.home .post-list .post-meta {
+  font-size: 0.8em;
+  opacity: 0.7;
 }
 
 /* Post navigation links */
