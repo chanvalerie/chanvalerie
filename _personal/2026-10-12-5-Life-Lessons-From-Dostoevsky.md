@@ -14,4 +14,7 @@ date: 2026-10-12
 
 &nbsp;
 
-Lorem ipsum
+Few writers make the human mind feel quite so contradictory as Fyodor Dostoevsky. Dostoevsky’s own life was marked by political persecution, a death sentence that was commuted at the last moment, and years of imprisonment and forced labour in Siberia. These experiences shaped a body of work concerned with morality, faith, freedom, and suffering. More than a century after his death, his novels continue to resonate with readers, and he remains one of my favourite authors for the way his work challenges me to reconsider what I think I know about people, including myself. 
+
+Anyway, here’s what reading Dostoevsky has taught me, for whatever that says about my social life and how well-adjusted I am.
+
