@@ -6,7 +6,7 @@ date: 2026-10-08
 
 # To Be Loved By a Writer
 
-<audio id="writer-audio" controls autoplay preload="auto" style="width: 100%; max-width: 700px; margin: 1em 0;" src="https://github.com/user-attachments/files/33355157/Rex.Orange.County.feat.Daniel.Ca[...]
+<audio id="writer-audio" controls autoplay preload="auto" style="width: 100%; max-width: 700px; margin: 1em 0;" src="https://github.com/user-attachments/files/33356041/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
   Your browser does not support the audio element.
 </audio>
 
