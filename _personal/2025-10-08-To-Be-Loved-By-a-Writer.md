@@ -52,17 +52,29 @@ date: 2026-10-08
     line-height: 1.4;
   }
 
-  .writer-track-meta audio {
+  /* Make the audio sit nicely inside the meta box */
+  .writer-track-meta .audio-wrap {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Slightly reduce the native audio controls visually while preserving layout. */
+  .writer-track-meta .audio-wrap audio {
     width: 100%;
     margin-top: 0.75rem;
     display: block;
     box-sizing: border-box;
+    transform: scale(0.92); /* slightly smaller */
+    transform-origin: left top;
   }
+
+  /* Because we scale the visual of the control, give a little extra bottom padding so it doesn't overlap on some browsers */
+  .writer-track { padding-bottom: 1.05rem; }
 
   @media (max-width: 420px) {
     .writer-track {
       max-width: 100%;
-      padding: 0.75rem 0.75rem 1rem; /* ensure extra bottom padding on small screens too */
+      padding: 0.75rem 0.75rem 1.15rem; /* ensure extra bottom padding on small screens too */
     }
 
     .writer-track-meta {
@@ -74,6 +86,10 @@ date: 2026-10-08
       width: 64px;
       height: 64px;
     }
+
+    .writer-track-meta .audio-wrap audio {
+      transform: scale(0.9); /* slightly smaller on small screens */
+    }
   }
 </style>
 
@@ -83,9 +99,11 @@ date: 2026-10-08
     <div class="writer-track-title">Indecision</div>
     <div class="writer-track-artist">Rex Orange County ft. Daniel Caesar</div>
 
-    <audio id="writer-audio" controls preload="none" src="https://raw.githubusercontent.com/chanvalerie/chanvalerie/main/assets/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
+    <div class="audio-wrap">
+      <audio id="writer-audio" controls preload="none" src="https://raw.githubusercontent.com/chanvalerie/chanvalerie/main/assets/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
   </div>
 </div>
 
