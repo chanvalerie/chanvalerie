@@ -24,8 +24,8 @@ date: 2026-10-08
   }
 
   .writer-cover {
-    width: 72px;
-    height: 72px;
+    width: 76px;
+    height: 76px;
     border-radius: 12px;
     background-color: #f0f0f0;
     background-position: center;
@@ -37,7 +37,7 @@ date: 2026-10-08
   .writer-track-meta {
     min-width: 0;
     flex: 1 1 auto;
-    width: calc(100% - 72px - 1rem);
+    width: calc(100% - 76px - 1rem);
   }
 
   .writer-track-title {
@@ -81,8 +81,8 @@ date: 2026-10-08
     }
 
     .writer-cover {
-      width: 64px;
-      height: 64px;
+      width: 66px;
+      height: 66px;
     }
 
     .writer-track-meta .audio-wrap,
