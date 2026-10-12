@@ -1,3 +1,4 @@
+---
 title: "Unbalanced Centrifuge"
 author: "Valerie Chan"
 
@@ -17,6 +18,10 @@ author: "Valerie Chan"
 # googleplus_username: +username
 
 theme: "minima"
+
+# URL settings for GitHub Pages (project site)
+url: "https://chanvalerie.github.io"
+baseurl: "/chanvalerie"
 
 rss: rss
 
