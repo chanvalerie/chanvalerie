@@ -32,6 +32,8 @@ date: 2026-10-08
 </script>
 <sup>Indecision – Rex Orange County and Daniel Ceaser</sup>
 
+&nbsp; 
+
 *To be loved by a writer is to be condemned to eternity — for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose.*
 
 You will never die; I have already made you immortal.
