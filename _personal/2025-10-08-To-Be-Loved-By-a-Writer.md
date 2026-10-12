@@ -52,17 +52,16 @@ date: 2026-10-08
     line-height: 1.4;
   }
 
-  /* Restore audio control to the slightly larger size (desktop)") */
   .writer-track-meta .audio-wrap {
-    width: 320px; /* restore to previous 320px */
+    width: 324px;
     max-width: 100%;
     box-sizing: border-box;
   }
 
   .writer-track-meta .audio-wrap audio {
-    width: 320px; /* restore to previous 320px */
+    width: 324px;
     max-width: 100%;
-    height: 34px; /* restore to previous 34px */
+    height: 36px;
     margin-top: 0.75rem;
     display: block;
     box-sizing: border-box;
@@ -86,12 +85,11 @@ date: 2026-10-08
       height: 64px;
     }
 
-    /* restore mobile audio control size */
     .writer-track-meta .audio-wrap,
     .writer-track-meta .audio-wrap audio {
-      width: 280px;
+      width: 286px;
       max-width: 100%;
-      height: 32px;
+      height: 34px;
     }
   }
 </style>
