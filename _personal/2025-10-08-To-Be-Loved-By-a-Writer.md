@@ -10,28 +10,24 @@ date: 2026-10-08
   .writer-track {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    max-width: 700px;
-    padding: 0.9rem 1rem;
+    gap: 0.75rem; /* slightly tighter */
+    max-width: 560px; /* slightly smaller container */
+    padding: 0.6rem 0.75rem; /* reduced padding */
     margin: 1em 0;
     border: 1px solid rgba(0,0,0,0.08);
-    border-radius: 12px;
+    border-radius: 10px;
     background: rgba(16, 24, 40, 0.03);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
   }
 
   .writer-cover {
-    width: 72px;
-    height: 72px;
-    border-radius: 12px;
-    background: linear-gradient(135deg, #d9c0ff, #86b6ff, #f7c7d9);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: rgba(18, 18, 18, 0.8);
-    font-size: 1.5rem;
-    font-weight: 700;
-    letter-spacing: 0.05em;
+    width: 56px;
+    height: 56px;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+    background-position: center;
+    background-size: cover;
+    display: block;
     flex-shrink: 0;
   }
 
@@ -42,26 +38,34 @@ date: 2026-10-08
 
   .writer-track-title {
     font-weight: 700;
-    font-size: 1.05rem;
-    line-height: 1.3;
+    font-size: 0.95rem; /* slightly smaller title */
+    line-height: 1.25;
   }
 
   .writer-track-artist {
-    font-size: 0.9rem;
+    font-size: 0.8rem; /* slightly smaller artist */
     color: rgba(0, 0, 0, 0.7);
-    line-height: 1.4;
+    line-height: 1.3;
   }
 
   /* Make the audio sit nicely inside the meta box */
   .writer-track-meta audio {
     width: 100%;
-    margin-top: 0.75rem;
+    margin-top: 0.5rem; /* reduced gap */
     display: block;
+  }
+
+  /* Small screens: make sure it still fits */
+  @media (max-width: 420px) {
+    .writer-track { max-width: 100%; padding: 0.5rem; }
+    .writer-cover { width: 48px; height: 48px; }
+    .writer-track-title { font-size: 0.9rem; }
+    .writer-track-artist { font-size: 0.75rem; }
   }
 </style>
 
 <div class="writer-track">
-  <div class="writer-cover" aria-label="Album art for Indecision">I</div>
+  <div class="writer-cover" aria-label="Album art for Indecision" style="background-image: url('https://raw.githubusercontent.com/chanvalerie/chanvalerie/main/assets/ab67616d0000b2736a05d5befdde1b244f3fb4e6.jpeg');"></div>
   <div class="writer-track-meta">
     <div class="writer-track-title">Indecision</div>
     <div class="writer-track-artist">Rex Orange County ft. Daniel Caesar</div>
@@ -152,14 +156,4 @@ But for as long as I have words, you will continue to exist.
 
 Not exactly as you were, but something permanent. Something made entirely of language and therefore impossible to bury.
 
-You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain why losing you felt like losing an entire universe.
-
-And when I am gone too, perhaps someone will find these pages.
-
-They will read your name. They will not know you, but for a moment, you will breathe again.
-
-And that will be enough.
-
-Because I cannot promise you immortality in the heavens. I can only promise you this:
-
-*I will keep writing.*
+You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain why losing you felt like losing an entire unive[...]
