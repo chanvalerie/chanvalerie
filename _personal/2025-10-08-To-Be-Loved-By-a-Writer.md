@@ -6,7 +6,68 @@ date: 2026-10-08
 
 # To Be Loved By a Writer
 
-<audio id="writer-audio" controls autoplay preload="auto" style="width: 100%; max-width: 700px; margin: 1em 0;" src="https://github.com/user-attachments/files/33356041/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
+<style>
+  .writer-track {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    max-width: 700px;
+    padding: 0.9rem 1rem;
+    margin: 1em 0;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 12px;
+    background: rgba(16, 24, 40, 0.03);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+  }
+
+  .writer-cover {
+    width: 72px;
+    height: 72px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #d9c0ff, #86b6ff, #f7c7d9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(18, 18, 18, 0.8);
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+  }
+
+  .writer-track-meta {
+    min-width: 0;
+    flex: 1;
+  }
+
+  .writer-track-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1.3;
+  }
+
+  .writer-track-artist {
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.7);
+    line-height: 1.4;
+  }
+
+  .writer-track audio {
+    width: 100%;
+    max-width: 700px;
+    margin-top: 0.75rem;
+  }
+</style>
+
+<div class="writer-track">
+  <div class="writer-cover" aria-label="Album art for Indecision">I</div>
+  <div class="writer-track-meta">
+    <div class="writer-track-title">Indecision</div>
+    <div class="writer-track-artist">Rex Orange County ft. Daniel Caesar</div>
+  </div>
+</div>
+
+<audio id="writer-audio" controls autoplay preload="auto" src="https://github.com/user-attachments/files/33356041/Rex.Orange.County.feat.Daniel.Ca[...]
   Your browser does not support the audio element.
 </audio>
 
@@ -30,9 +91,8 @@ date: 2026-10-08
     document.addEventListener('touchstart', tryPlay, { once: true });
   })();
 </script>
-<sup>Indecision – Rex Orange County and Daniel Ceaser</sup>
 
-&nbsp; 
+&nbsp;
 
 *To be loved by a writer is to be condemned to eternity — for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose.*
 
@@ -46,9 +106,9 @@ You could disappear from photographs. Your footprints could be erased by rain. Y
 
 But it would not matter. I would still have the page.
 
-That is the terrifying privilege of being loved by a writer: I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect presence — the impression of a soul on paper, the memory of a voice made visible.
+That is the terrifying privilege of being loved by a writer: I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect presence — the impression of a soul in the shape of language.
 
-Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, reshaping itself in ways we still cannot fully name.
+Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, making a kind of ghost of itself.
 
 So I suppose writing is my version of physics.
 
@@ -56,17 +116,17 @@ You become language.
 
 Your laughter becomes punctuation. Your silence becomes white space. Your eyes become imagery. Your existence becomes metaphor, and metaphor is a strange afterlife because it allows the dead to keep breathing in the minds of the living.
 
-I could write you into a poem tonight, and centuries from now someone could read it without knowing your face, your voice, or the years you existed. They would still encounter you. Not as history, but as a feeling that once had a body.
+I could write you into a poem tonight, and centuries from now someone could read it without knowing your face, your voice, or the years you existed. They would still encounter you. Not as history, but as an echo.
 
 *That is how I will betray death.*
 
 *I will give you a thousand lives.*
 
-In one poem, you will be the constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you will walk through rooms I still cannot bear to enter without thinking of you.
+In one poem, you will be the constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you will walk through rooms that no longer exist. I will set you in sentences and let you bloom there, bright and impossible.
 
 And every time someone reads you, you will happen again. That is the closest thing to resurrection I know.
 
-To be loved by a writer is to be condemned to eternity — not because the writer possesses some divine power over death, but because writers are incapable of letting the things that ruin them disappear entirely from the world.
+To be loved by a writer is to be condemned to eternity — not because the writer possesses some divine power over death, but because writers are incapable of letting the things that ruin them disappear quietly.
 
 *You may outlive your body. You may outlive your photograph. You may even outlive the memory of the people who knew you.*
 
