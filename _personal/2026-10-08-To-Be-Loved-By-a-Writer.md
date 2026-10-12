@@ -6,33 +6,11 @@ date: 2026-10-08
 
 # To Be Loved By a Writer
 
-<audio id="writer-audio" controls autoplay preload="auto" style="width: 100%; max-width: 700px; margin: 1em 0;" src="https://github.com/user-attachments/files/33355157/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
-  Your browser does not support the audio element.
-</audio>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zZ5TnmUIub96AsZmkCXYS?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<script>
-  (function () {
-    const audio = document.getElementById('writer-audio');
-    if (!audio) return;
-
-    audio.volume = 0.9;
-
-    const tryPlay = () => {
-      audio.play().catch(() => {
-        // Autoplay is often blocked until the user interacts with the page.
-      });
-    };
-
-    tryPlay();
-
-    document.addEventListener('pointerdown', tryPlay, { once: true });
-    document.addEventListener('keydown', tryPlay, { once: true });
-    document.addEventListener('touchstart', tryPlay, { once: true });
-  })();
-</script>
 <sup>Indecision – Rex Orange County and Daniel Ceaser</sup>
 
-&nbsp; 
+&nbsp;
 
 *To be loved by a writer is to be condemned to eternity — for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose.*
 
