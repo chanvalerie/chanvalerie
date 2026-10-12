@@ -6,176 +6,16 @@ date: 2026-10-08
 
 # To Be Loved By a Writer
 
-<style>
-  .writer-player {
-    width: 100%;
-    max-width: 700px;
-    margin: 1em 0;
-    padding: 0.85rem 1rem 0.75rem;
-    border-radius: 14px;
-    background: rgba(164, 200, 225, 0.12);
-    border: 1px solid rgba(164, 200, 225, 0.35);
-    box-shadow: 0 8px 24px rgba(33, 54, 68, 0.06);
-  }
-
-  .writer-controls {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-  }
-
-  .writer-play {
-    appearance: none;
-    border: none;
-    border-radius: 999px;
-    background: linear-gradient(135deg, #a4c8e1, #8bb5d3);
-    color: #163247;
-    font-weight: 700;
-    font-size: 0.82rem;
-    padding: 0.6rem 0.9rem;
-    cursor: pointer;
-    box-shadow: 0 4px 12px rgba(107, 145, 171, 0.26);
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
-  }
-
-  .writer-play:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 6px 16px rgba(107, 145, 171, 0.25);
-  }
-
-  .writer-track {
-    position: relative;
-    flex: 1;
-    display: flex;
-    align-items: center;
-    min-width: 0;
-  }
-
-  .writer-seek {
-    -webkit-appearance: none;
-    appearance: none;
-    width: 100%;
-    height: 8px;
-    border-radius: 999px;
-    background: linear-gradient(
-      to right,
-      #a4c8e1 0%,
-      #a4c8e1 var(--seek-progress, 0%),
-      rgba(164, 200, 225, 0.28) var(--seek-progress, 0%),
-      rgba(164, 200, 225, 0.28) 100%
-    );
-    outline: none;
-    cursor: pointer;
-  }
-
-  .writer-seek::-webkit-slider-thumb {
-    -webkit-appearance: none;
-    appearance: none;
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    background: #7daec7;
-    border: 2px solid #f5fbff;
-    box-shadow: 0 0 0 2px rgba(125, 174, 199, 0.22);
-  }
-
-  .writer-seek::-moz-range-thumb {
-    width: 14px;
-    height: 14px;
-    border: 2px solid #f5fbff;
-    border-radius: 50%;
-    background: #7daec7;
-    box-shadow: 0 0 0 2px rgba(125, 174, 199, 0.22);
-  }
-
-  .writer-time {
-    min-width: 42px;
-    text-align: right;
-    font-size: 0.8rem;
-    color: #355b74;
-    letter-spacing: 0.02em;
-  }
-
-  @media (max-width: 560px) {
-    .writer-controls {
-      gap: 0.5rem;
-    }
-
-    .writer-play {
-      padding: 0.55rem 0.75rem;
-      font-size: 0.75rem;
-    }
-
-    .writer-time {
-      min-width: 36px;
-      font-size: 0.72rem;
-    }
-  }
-</style>
-
-<div class="writer-player" aria-label="Audio player for To Be Loved By a Writer">
-  <audio id="writer-audio" preload="auto" src="https://github.com/user-attachments/files/33355157/Rex.Orange.County.feat.Daniel.Ca[...]"></audio>
-
-  <div class="writer-controls">
-    <button class="writer-play" type="button" id="writer-play" aria-label="Play or pause audio">Play</button>
-    <div class="writer-track">
-      <input class="writer-seek" id="writer-seek" type="range" min="0" max="100" value="0" aria-label="Seek through audio" />
-    </div>
-    <span class="writer-time" id="writer-time">0:00</span>
-  </div>
-</div>
+<audio id="writer-audio" controls autoplay preload="auto" style="width: 100%; max-width: 700px; margin: 1em 0;" src="https://github.com/user-attachments/files/33355157/Rex.Orange.County.feat.Daniel.Ca[...]
+  Your browser does not support the audio element.
+</audio>
 
 <script>
   (function () {
     const audio = document.getElementById('writer-audio');
-    const playButton = document.getElementById('writer-play');
-    const seek = document.getElementById('writer-seek');
-    const time = document.getElementById('writer-time');
-
-    if (!audio || !playButton || !seek || !time) return;
+    if (!audio) return;
 
     audio.volume = 0.9;
-
-    const formatTime = (seconds) => {
-      if (!Number.isFinite(seconds) || seconds < 0) return '0:00';
-      const minutes = Math.floor(seconds / 60);
-      const remainingSeconds = Math.floor(seconds % 60).toString().padStart(2, '0');
-      return `${minutes}:${remainingSeconds}`;
-    };
-
-    const updateSeek = () => {
-      const duration = Number.isFinite(audio.duration) && audio.duration > 0 ? audio.duration : 0;
-      const progress = duration > 0 ? (audio.currentTime / duration) * 100 : 0;
-      seek.value = progress;
-      seek.style.setProperty('--seek-progress', `${progress}%`);
-      time.textContent = formatTime(audio.currentTime);
-    };
-
-    playButton.addEventListener('click', () => {
-      if (audio.paused) {
-        audio.play().catch(() => {});
-      } else {
-        audio.pause();
-      }
-    });
-
-    audio.addEventListener('play', () => {
-      playButton.textContent = 'Pause';
-    });
-
-    audio.addEventListener('pause', () => {
-      playButton.textContent = 'Play';
-    });
-
-    audio.addEventListener('timeupdate', updateSeek);
-    audio.addEventListener('loadedmetadata', updateSeek);
-
-    seek.addEventListener('input', (event) => {
-      const progress = Number(event.target.value) || 0;
-      const duration = Number.isFinite(audio.duration) && audio.duration > 0 ? audio.duration : 0;
-      audio.currentTime = duration > 0 ? (progress / 100) * duration : 0;
-      updateSeek();
-    });
 
     const tryPlay = () => {
       audio.play().catch(() => {
@@ -184,6 +24,7 @@ date: 2026-10-08
     };
 
     tryPlay();
+
     document.addEventListener('pointerdown', tryPlay, { once: true });
     document.addEventListener('keydown', tryPlay, { once: true });
     document.addEventListener('touchstart', tryPlay, { once: true });
