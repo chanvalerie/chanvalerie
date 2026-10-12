@@ -66,8 +66,6 @@ date: 2026-10-08
     <div class="writer-track-title">Indecision</div>
     <div class="writer-track-artist">Rex Orange County ft. Daniel Caesar</div>
 
-    <!-- Audio player moved inside the meta box so it's visually grouped with the title/artist -->
-    <!-- Note: use a direct/raw URL for `data-src` (CDN, raw.githubusercontent.com, or other file host). Links to GitHub attachment pages (`https://github.com/user-attachments/...`) are HTML pages rather than raw files on some setups; if playback doesn't work, host the file on a direct file host. -->
     <audio id="writer-audio" controls preload="none" data-src="https://github.com/user-attachments/files/33356405/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
       Your browser does not support the audio element.
     </audio>
@@ -81,7 +79,6 @@ date: 2026-10-08
 
     audio.volume = 0.9;
 
-    // Set the real src from data-src only when we need it. This helps avoid blocked autoplay and makes it clear where a direct file URL is required.
     const ensureSrc = () => {
       if (!audio.src || audio.src === window.location.href) {
         const ds = audio.dataset && audio.dataset.src;
@@ -94,15 +91,12 @@ date: 2026-10-08
     const tryPlay = () => {
       ensureSrc();
       audio.play().catch(() => {
-        // Autoplay is frequently blocked by browsers until the user interacts with the page.
-        // We intentionally don't spam console errors here.
+        // Silent fail if autoplay is blocked.
       });
     };
 
-    // Try once on load (may be blocked)
     tryPlay();
 
-    // Add a single user-interaction listener to set the src and attempt playback when the user first interacts.
     const onFirstInteraction = () => {
       tryPlay();
       document.removeEventListener('pointerdown', onFirstInteraction);
