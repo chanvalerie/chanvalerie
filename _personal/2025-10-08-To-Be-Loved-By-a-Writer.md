@@ -119,7 +119,6 @@ date: 2026-10-08
   })();
 </script>
 
-&nbsp;
 
 *To be loved by a writer is to be condemned to eternity — for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose.*
 
