@@ -12,7 +12,7 @@ date: 2026-10-08
     align-items: center;
     gap: 1rem;
     max-width: 700px;
-    padding: 0.9rem 1rem 1rem; /* added extra bottom padding to prevent mobile clipping */
+    padding: 0.9rem 1rem 1rem;
     margin: 1em 0;
     border: 1px solid rgba(0,0,0,0.08);
     border-radius: 12px;
@@ -52,29 +52,27 @@ date: 2026-10-08
     line-height: 1.4;
   }
 
-  /* Make the audio sit nicely inside the meta box */
   .writer-track-meta .audio-wrap {
-    width: 100%;
+    width: 320px;
+    max-width: 100%;
     box-sizing: border-box;
   }
 
-  /* Slightly reduce the native audio controls visually while preserving layout. */
   .writer-track-meta .audio-wrap audio {
-    width: 100%;
+    width: 320px;
+    max-width: 100%;
+    height: 34px;
     margin-top: 0.75rem;
     display: block;
     box-sizing: border-box;
-    transform: scale(0.92); /* slightly smaller */
+    transform: none !important;
     transform-origin: left top;
   }
-
-  /* Because we scale the visual of the control, give a little extra bottom padding so it doesn't overlap on some browsers */
-  .writer-track { padding-bottom: 1.05rem; }
 
   @media (max-width: 420px) {
     .writer-track {
       max-width: 100%;
-      padding: 0.75rem 0.75rem 1.15rem; /* ensure extra bottom padding on small screens too */
+      padding: 0.75rem 0.75rem 1.15rem;
     }
 
     .writer-track-meta {
@@ -87,8 +85,11 @@ date: 2026-10-08
       height: 64px;
     }
 
+    .writer-track-meta .audio-wrap,
     .writer-track-meta .audio-wrap audio {
-      transform: scale(0.9); /* slightly smaller on small screens */
+      width: 280px;
+      max-width: 100%;
+      height: 32px;
     }
   }
 </style>
@@ -118,7 +119,6 @@ date: 2026-10-08
     });
   })();
 </script>
-
 
 *To be loved by a writer is to be condemned to eternity — for as long as I have words, you will continue to exist between the lines of my poems and within the pages of my prose.*
 
