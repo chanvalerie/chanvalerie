@@ -66,7 +66,7 @@ date: 2026-10-08
     <div class="writer-track-title">Indecision</div>
     <div class="writer-track-artist">Rex Orange County ft. Daniel Caesar</div>
 
-    <audio id="writer-audio" controls preload="none" data-src="https://raw.githubusercontent.com/chanvalerie/chanvalerie/main/assets/indecision/indecision.mp3">
+    <audio id="writer-audio" controls preload="none" data-src="https://raw.githubusercontent.com/chanvalerie/chanvalerie/main/assets/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
       Your browser does not support the audio element.
     </audio>
   </div>
