@@ -10,9 +10,9 @@ date: 2026-10-08
   .writer-track {
     display: flex;
     align-items: center;
-    gap: 0.9rem; /* slightly tighter */
+    gap: 1rem;
     max-width: 700px;
-    padding: 0.85rem 0.95rem 1rem; /* slightly reduced padding */
+    padding: 0.9rem 1rem 1rem;
     margin: 1em 0;
     border: 1px solid rgba(0,0,0,0.08);
     border-radius: 12px;
@@ -24,9 +24,9 @@ date: 2026-10-08
   }
 
   .writer-cover {
-    width: 64px; /* slightly smaller */
-    height: 64px;
-    border-radius: 10px;
+    width: 72px;
+    height: 72px;
+    border-radius: 12px;
     background-color: #f0f0f0;
     background-position: center;
     background-size: cover;
@@ -37,32 +37,32 @@ date: 2026-10-08
   .writer-track-meta {
     min-width: 0;
     flex: 1 1 auto;
-    width: calc(100% - 64px - 0.9rem);
+    width: calc(100% - 72px - 1rem);
   }
 
   .writer-track-title {
     font-weight: 700;
-    font-size: 1rem; /* slightly smaller */
+    font-size: 1.05rem;
     line-height: 1.3;
   }
 
   .writer-track-artist {
-    font-size: 0.85rem; /* slightly smaller */
+    font-size: 0.9rem;
     color: rgba(0, 0, 0, 0.7);
-    line-height: 1.35;
+    line-height: 1.4;
   }
 
   .writer-track-meta .audio-wrap {
-    width: 300px; /* slightly smaller */
+    width: 320px;
     max-width: 100%;
     box-sizing: border-box;
   }
 
   .writer-track-meta .audio-wrap audio {
-    width: 300px;
+    width: 320px;
     max-width: 100%;
-    height: 30px; /* slightly smaller */
-    margin-top: 0.7rem;
+    height: 34px;
+    margin-top: 0.75rem;
     display: block;
     box-sizing: border-box;
     transform: none !important;
@@ -72,7 +72,7 @@ date: 2026-10-08
   @media (max-width: 420px) {
     .writer-track {
       max-width: 100%;
-      padding: 0.7rem 0.7rem 1.05rem;
+      padding: 0.75rem 0.75rem 1.15rem;
     }
 
     .writer-track-meta {
@@ -81,15 +81,15 @@ date: 2026-10-08
     }
 
     .writer-cover {
-      width: 56px; /* smaller on mobile */
-      height: 56px;
+      width: 64px;
+      height: 64px;
     }
 
     .writer-track-meta .audio-wrap,
     .writer-track-meta .audio-wrap audio {
-      width: 260px; /* slightly smaller mobile control */
+      width: 280px;
       max-width: 100%;
-      height: 30px;
+      height: 32px;
     }
   }
 </style>
