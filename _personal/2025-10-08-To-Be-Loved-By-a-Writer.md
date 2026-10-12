@@ -12,7 +12,7 @@ date: 2026-10-08
     align-items: center;
     gap: 1rem;
     max-width: 700px;
-    padding: 0.9rem 1rem;
+    padding: 0.9rem 1rem 1rem; /* added extra bottom padding to prevent mobile clipping */
     margin: 1em 0;
     border: 1px solid rgba(0,0,0,0.08);
     border-radius: 12px;
@@ -62,7 +62,7 @@ date: 2026-10-08
   @media (max-width: 420px) {
     .writer-track {
       max-width: 100%;
-      padding: 0.75rem;
+      padding: 0.75rem 0.75rem 1rem; /* ensure extra bottom padding on small screens too */
     }
 
     .writer-track-meta {
