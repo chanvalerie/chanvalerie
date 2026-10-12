@@ -10,20 +10,23 @@ date: 2026-10-08
   .writer-track {
     display: flex;
     align-items: center;
-    gap: 0.75rem; /* slightly tighter */
-    max-width: 560px; /* slightly smaller container */
-    padding: 0.6rem 0.75rem; /* reduced padding */
+    gap: 1rem;
+    max-width: 700px;
+    padding: 0.9rem 1rem;
     margin: 1em 0;
     border: 1px solid rgba(0,0,0,0.08);
-    border-radius: 10px;
+    border-radius: 12px;
     background: rgba(16, 24, 40, 0.03);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    align-items: flex-start;
   }
 
   .writer-cover {
-    width: 56px;
-    height: 56px;
-    border-radius: 8px;
+    width: 72px;
+    height: 72px;
+    border-radius: 12px;
     background-color: #f0f0f0;
     background-position: center;
     background-size: cover;
@@ -33,34 +36,44 @@ date: 2026-10-08
 
   .writer-track-meta {
     min-width: 0;
-    flex: 1;
+    flex: 1 1 auto;
+    width: calc(100% - 72px - 1rem);
   }
 
   .writer-track-title {
     font-weight: 700;
-    font-size: 0.95rem; /* slightly smaller title */
-    line-height: 1.25;
-  }
-
-  .writer-track-artist {
-    font-size: 0.8rem; /* slightly smaller artist */
-    color: rgba(0, 0, 0, 0.7);
+    font-size: 1.05rem;
     line-height: 1.3;
   }
 
-  /* Make the audio sit nicely inside the meta box */
-  .writer-track-meta audio {
-    width: 100%;
-    margin-top: 0.5rem; /* reduced gap */
-    display: block;
+  .writer-track-artist {
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.7);
+    line-height: 1.4;
   }
 
-  /* Small screens: make sure it still fits */
+  .writer-track-meta audio {
+    width: 100%;
+    margin-top: 0.75rem;
+    display: block;
+    box-sizing: border-box;
+  }
+
   @media (max-width: 420px) {
-    .writer-track { max-width: 100%; padding: 0.5rem; }
-    .writer-cover { width: 48px; height: 48px; }
-    .writer-track-title { font-size: 0.9rem; }
-    .writer-track-artist { font-size: 0.75rem; }
+    .writer-track {
+      max-width: 100%;
+      padding: 0.75rem;
+    }
+
+    .writer-track-meta {
+      width: 100%;
+      min-width: 0;
+    }
+
+    .writer-cover {
+      width: 64px;
+      height: 64px;
+    }
   }
 </style>
 
@@ -70,7 +83,7 @@ date: 2026-10-08
     <div class="writer-track-title">Indecision</div>
     <div class="writer-track-artist">Rex Orange County ft. Daniel Caesar</div>
 
-    <audio id="writer-audio" controls preload="none" data-src="https://raw.githubusercontent.com/chanvalerie/chanvalerie/main/assets/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
+    <audio id="writer-audio" controls preload="none" src="https://raw.githubusercontent.com/chanvalerie/chanvalerie/main/assets/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -82,35 +95,9 @@ date: 2026-10-08
     if (!audio) return;
 
     audio.volume = 0.9;
-
-    const ensureSrc = () => {
-      if (!audio.src || audio.src === window.location.href) {
-        const ds = audio.dataset && audio.dataset.src;
-        if (ds) {
-          audio.src = ds;
-        }
-      }
-    };
-
-    const tryPlay = () => {
-      ensureSrc();
-      audio.play().catch(() => {
-        // Silent fail if autoplay is blocked.
-      });
-    };
-
-    tryPlay();
-
-    const onFirstInteraction = () => {
-      tryPlay();
-      document.removeEventListener('pointerdown', onFirstInteraction);
-      document.removeEventListener('keydown', onFirstInteraction);
-      document.removeEventListener('touchstart', onFirstInteraction);
-    };
-
-    document.addEventListener('pointerdown', onFirstInteraction);
-    document.addEventListener('keydown', onFirstInteraction);
-    document.addEventListener('touchstart', onFirstInteraction);
+    audio.play().catch(() => {
+      // Silent fail if autoplay is blocked.
+    });
   })();
 </script>
 
@@ -156,4 +143,14 @@ But for as long as I have words, you will continue to exist.
 
 Not exactly as you were, but something permanent. Something made entirely of language and therefore impossible to bury.
 
-You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain why losing you felt like losing an entire unive[...]
+You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain why losing you felt like losing an entire universe.
+
+And when I am gone too, perhaps someone will find these pages.
+
+They will read your name. They will not know you, but for a moment, you will breathe again.
+
+And that will be enough.
+
+Because I cannot promise you immortality in the heavens. I can only promise you this:
+
+*I will keep writing.*
