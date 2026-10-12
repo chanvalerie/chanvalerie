@@ -67,7 +67,7 @@ date: 2026-10-08
   </div>
 </div>
 
-<audio id="writer-audio" controls autoplay preload="auto" src="https://github.com/user-attachments/files/33356041/Rex.Orange.County.feat.Daniel.Ca[...]
+<audio id="writer-audio" controls autoplay preload="auto" src="https://github.com/user-attachments/files/33356041/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
   Your browser does not support the audio element.
 </audio>
 
