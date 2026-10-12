@@ -52,10 +52,11 @@ date: 2026-10-08
     line-height: 1.4;
   }
 
-  .writer-track audio {
+  /* Make the audio sit nicely inside the meta box */
+  .writer-track-meta audio {
     width: 100%;
-    max-width: 700px;
     margin-top: 0.75rem;
+    display: block;
   }
 </style>
 
@@ -64,12 +65,14 @@ date: 2026-10-08
   <div class="writer-track-meta">
     <div class="writer-track-title">Indecision</div>
     <div class="writer-track-artist">Rex Orange County ft. Daniel Caesar</div>
+
+    <!-- Audio player moved inside the meta box so it's visually grouped with the title/artist -->
+    <!-- Note: use a direct/raw URL for `data-src` (CDN, raw.githubusercontent.com, or other file host). Links to GitHub attachment pages (`https://github.com/user-attachments/...`) are HTML pages rather than direct audio files and will not work as a media src. -->
+    <audio id="writer-audio" controls preload="none" data-src="https://github.com/user-attachments/files/33356041/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
+      Your browser does not support the audio element.
+    </audio>
   </div>
 </div>
-
-<audio id="writer-audio" controls autoplay preload="auto" src="https://github.com/user-attachments/files/33356041/Rex.Orange.County.feat.Daniel.Caesar.-.Indecision.Official.Video.-.Rex.Orange.County.mp3">
-  Your browser does not support the audio element.
-</audio>
 
 <script>
   (function () {
@@ -78,17 +81,38 @@ date: 2026-10-08
 
     audio.volume = 0.9;
 
+    // Set the real src from data-src only when we need it. This helps avoid blocked autoplay and makes it clear where a direct file URL is required.
+    const ensureSrc = () => {
+      if (!audio.src || audio.src === window.location.href) {
+        const ds = audio.dataset && audio.dataset.src;
+        if (ds) {
+          audio.src = ds;
+        }
+      }
+    };
+
     const tryPlay = () => {
+      ensureSrc();
       audio.play().catch(() => {
-        // Autoplay is often blocked until the user interacts with the page.
+        // Autoplay is frequently blocked by browsers until the user interacts with the page.
+        // We intentionally don't spam console errors here.
       });
     };
 
+    // Try once on load (may be blocked)
     tryPlay();
 
-    document.addEventListener('pointerdown', tryPlay, { once: true });
-    document.addEventListener('keydown', tryPlay, { once: true });
-    document.addEventListener('touchstart', tryPlay, { once: true });
+    // Add a single user-interaction listener to set the src and attempt playback when the user first interacts.
+    const onFirstInteraction = () => {
+      tryPlay();
+      document.removeEventListener('pointerdown', onFirstInteraction);
+      document.removeEventListener('keydown', onFirstInteraction);
+      document.removeEventListener('touchstart', onFirstInteraction);
+    };
+
+    document.addEventListener('pointerdown', onFirstInteraction);
+    document.addEventListener('keydown', onFirstInteraction);
+    document.addEventListener('touchstart', onFirstInteraction);
   })();
 </script>
 
@@ -98,35 +122,35 @@ date: 2026-10-08
 
 You will never die; I have already made you immortal.
 
-Not in the way religions promise heaven, nor in the way monuments pretend stone can resist time. You exist now in language, and language has always been humanity’s most beautiful refusal to accept death.
+Not in the way religions promise heaven, nor in the way monuments pretend stone can resist time. You exist now in language, and language has always been humanity’s most beautiful refusal to accept d[...]
 
-I write you the way historians write civilisations they are terrified will be forgotten. Thoroughly. Obsessively. With the desperate precision of someone cataloguing ruins before the last wall collapses.
+I write you the way historians write civilisations they are terrified will be forgotten. Thoroughly. Obsessively. With the desperate precision of someone cataloguing ruins before the last wall collaps[...]
 
 You could disappear from photographs. Your footprints could be erased by rain. Years could pass over your name until no one remembers how it once sounded in the mouth of the person who loved you.
 
 But it would not matter. I would still have the page.
 
-That is the terrifying privilege of being loved by a writer: I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect presence — the impression of a soul in the shape of language.
+That is the terrifying privilege of being loved by a writer: I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect presence — the impress[...]
 
-Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, making a kind of ghost of itself.
+Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, m[...]
 
 So I suppose writing is my version of physics.
 
 You become language.
 
-Your laughter becomes punctuation. Your silence becomes white space. Your eyes become imagery. Your existence becomes metaphor, and metaphor is a strange afterlife because it allows the dead to keep breathing in the minds of the living.
+Your laughter becomes punctuation. Your silence becomes white space. Your eyes become imagery. Your existence becomes metaphor, and metaphor is a strange afterlife because it allows the dead to k[...]
 
-I could write you into a poem tonight, and centuries from now someone could read it without knowing your face, your voice, or the years you existed. They would still encounter you. Not as history, but as an echo.
+I could write you into a poem tonight, and centuries from now someone could read it without knowing your face, your voice, or the years you existed. They would still encounter you. Not as history[...]
 
 *That is how I will betray death.*
 
 *I will give you a thousand lives.*
 
-In one poem, you will be the constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you will walk through rooms that no longer exist. I will set you in sentences and let you bloom there, bright and impossible.
+In one poem, you will be the constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you wil[...]
 
 And every time someone reads you, you will happen again. That is the closest thing to resurrection I know.
 
-To be loved by a writer is to be condemned to eternity — not because the writer possesses some divine power over death, but because writers are incapable of letting the things that ruin them disappear quietly.
+To be loved by a writer is to be condemned to eternity — not because the writer possesses some divine power over death, but because writers are incapable of letting the things that ruin them di[...]
 
 *You may outlive your body. You may outlive your photograph. You may even outlive the memory of the people who knew you.*
 
@@ -134,7 +158,7 @@ But for as long as I have words, you will continue to exist.
 
 Not exactly as you were, but something permanent. Something made entirely of language and therefore impossible to bury.
 
-You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain why losing you felt like losing an entire universe.
+You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain why losing you felt like losing an entire unive[...]
 
 And when I am gone too, perhaps someone will find these pages.
 
