@@ -25,22 +25,26 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
 google_analytics:
-  - ${JEKYLL_CONFIG_GOOGLE_ANALYICS}
-  
+  - ${JEKYLL_CONFIG_GOOGLE_ANALYTICS}
+
 collections:
   personal: # collection for personal blog posts
     output: true
-    
+
+header_pages:
+  - index.md
+  - archive.md
+
 titles_from_headings:
   strip_title: true
   collections: true
-  
+
 defaults:
   - scope:
       path: ""
