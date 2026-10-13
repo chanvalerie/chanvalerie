@@ -39,6 +39,10 @@ collections:
   personal:
     output: true
 
+header_pages:
+  - index.md
+  - archive.md
+
 titles_from_headings:
   strip_title: true
   collections: true
