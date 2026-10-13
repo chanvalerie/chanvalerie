@@ -3,13 +3,7 @@ layout: page
 title: Blog Archive
 ---
 
-<h3>All posts (newest first)</h3>
-<ul>
-  {% assign all_posts = site.posts | sort: 'date' | reverse %}
-  {% for post in all_posts %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%b %Y" }} - {{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<p><a class="button" href="{{ site.baseurl }}/archive-newest/">Sort by new</a></p>
 
 {% for tag in site.tags %}
   {% assign tag_name = tag[0] %}
