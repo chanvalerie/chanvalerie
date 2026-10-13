@@ -40,9 +40,8 @@ collections:
     output: true
 
 header_pages:
-  - index.md
-  - archive.md
   - publications.md
+  - archive.md
 
 titles_from_headings:
   strip_title: true
