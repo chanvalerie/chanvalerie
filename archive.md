@@ -6,7 +6,7 @@ title: Blog Archive
 {% for tag in site.tags %}
   {% assign tag_name = tag[0] %}
   {% if tag_name == "other" %}
-    {% assign tag_name = "Science and Philosophy" %}
+    {% assign tag_name = "Science & Philosophy" %}
   {% endif %}
   <h3>{{- tag_name -}}</h3>
   <ul>
