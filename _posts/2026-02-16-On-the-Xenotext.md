@@ -2,8 +2,6 @@
 
 Everything we write is vulnerable to time. Clay tablets fracture, paper decays, and digital documents like the first draft of this essay can disappear with a failed hard drive. Our methods of preserving knowledge have become increasingly sophisticated, yet they remain dependent on the continued existence of the materials, technologies, and institutions that sustain them. One attempt to rethink literary preservation comes from Canadian poet Christian Bök. His ongoing project, *The Xenotext*, uses the DNA of the radiation-resistant bacterium *Deinococcus radiodurans* as a medium for poetry. After approximately 25 years of work, Bök and his publisher announced the project’s completion in June 2025.
 
----
-
 &nbsp;
 
 In 1956, food microbiologist Arthur W. Anderson discovered that a bacterium had survived radiation treatment intended to sterilise a tin of ground meat. Initially classified as *Micrococcus radiodurans*, the organism was later reclassified as *Deinococcus radiodurans*, a name derived from Greek and Latin roots that roughly translate to a radiation-resistant, formidable berry. <sup>1</sup>
@@ -15,7 +13,6 @@ For years, the presence of multiple genome copies was considered the central exp
 
 For these reasons, *D. radiodurans* make the ideal choice for Bök’s project. DNA is already an exceptionally effective medium for storing biological information, and *D. radiodurans* has evolved mechanisms that allow it to preserve and recover that information under extreme conditions. Bök’s ambition was to use this durability for a purpose far removed from the organism’s own survival: the preservation of a poem.
 
----
 
 &nbsp;
 
@@ -27,7 +24,6 @@ Even a sequence that satisfies these requirements may fail biologically. The ami
 
 The project’s completion, announced in 2025, marked the culmination of a long attempt to bring together two systems of information. The genetic code is interpreted through biochemical processes within the cell; the literary code depends on language, convention and the capacity of a reader to make meaning from words. The bacterium can translate the sequence into a protein. Whether that sequence also constitutes a poem is a different question, one that depends on the human ability to recognise and interpret it as language.
 
----
 
 &nbsp;
 
@@ -39,7 +35,6 @@ I first encountered *The Xenotext* as a first-year undergraduate, when I wrote a
 
 The same DNA can therefore belong to two very different systems of value. Within the cell, its significance is determined by the processes through which it is replicated and expressed. Within human culture, its significance depends on a shared understanding of language, literary form, and the intentions of the person who wrote it. The sequence can persist in the bacterium without its literary meaning ever becoming part of the organism’s world -- that meaning belongs to the people who can read the poem and understand what Bök intended it to say.
 
----
 
 &nbsp;
 
