@@ -2,6 +2,8 @@
 layout: page
 title: All posts (newest first)
 permalink: /archive-newest/
+hide_from_pages: true
+sitemap: false
 ---
 
 <ul>

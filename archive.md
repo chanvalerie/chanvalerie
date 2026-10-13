@@ -7,7 +7,7 @@ title: Blog Archive
 
 {% for tag in site.tags %}
   {% assign tag_name = tag[0] %}
-  {% if tag_name == "other" %}
+  {% if tag_name | downcase == "other" %}
     {% assign tag_name = "Science & Philosophy" %}
   {% endif %}
   <h3>{{- tag_name -}}</h3>
