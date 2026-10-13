@@ -1,12 +1,14 @@
 ---
 layout: page
-title: All posts (newest first)
+title: Blog Archive
 permalink: /archive-newest/
 hide_from_pages: true
 sitemap: false
 hidden: true
 exclude_from_nav: true
 ---
+
+<p><a class="button" href="{{ site.baseurl }}/archive.html">Sort by category</a></p>
 
 <ul>
   {% assign all_posts = site.posts | concat: site.personal | sort: 'date' | reverse %}
