@@ -10,7 +10,6 @@ date: 2026-10-14
   <sup style="display: block; margin-top: 0.5em; font-size: 0.75em; opacity: 0.8;">René Magritte, La Trahison des images (1929)</sup>
 </p>
 
-&nbsp;
 
 The democratisation of knowledge has produced a paradox: information has never been more accessible, yet expertise has become easier to dismiss. The internet has weakened the barriers that once restricted access to learning, while also making it easier for confident nonsense to travel at the speed of attention.
 
