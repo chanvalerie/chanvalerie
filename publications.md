@@ -4,4 +4,4 @@ title: "Publications"
 permalink: /publications/
 ---
 
-Pending ˚｡⋆୨୧˚
+.
