@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "To Be Loved By a Writer"
-date: 2026-10-08
+date: 2026-08-19
 ---
 
 # To Be Loved By a Writer
