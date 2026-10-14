@@ -5,6 +5,10 @@ date: 2026-10-14
 ---
 # The Democratisation of Ignorance
 
+<img width="1049" height="339" alt="Screenshot 2026-10-14 125940" src="https://github.com/user-attachments/assets/a5ae83f1-c414-4b76-bf37-db841c67d040" />
+
+&nbsp;
+
 The democratisation of knowledge has produced a paradox: information has never been more accessible, yet expertise has become easier to dismiss. The internet has weakened the barriers that once restricted access to intellectual life, allowing people to question established ideas without the permission of universities, professional bodies, or political institutions. It has also made it easier to mistake access to information for an understanding of it.
 
 For much of history, education and intellectual authority were closely tied to social position. Access to books, universities, and specialist training was unevenly distributed, leaving large sections of the population dependent on institutions they had little power to challenge. The expansion of public education and the arrival of the internet have changed this relationship. Someone without a university degree can now read scientific papers, follow academic debates, and question the conclusions of people who have spent their lives studying a subject.
