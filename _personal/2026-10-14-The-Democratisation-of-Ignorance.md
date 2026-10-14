@@ -5,7 +5,7 @@ date: 2026-10-14
 ---
 # The Democratisation of Ignorance
 
-<img width="1049" height="339" alt="Screenshot 2026-10-14 125940" src="https://github.com/user-attachments/assets/a5ae83f1-c414-4b76-bf37-db841c67d040" />
+<img width="736" height="339" alt="Screenshot 2026-10-14 125940" src="https://github.com/user-attachments/assets/a56c8c90-a711-4492-81db-d87757391d1e" />
 
 &nbsp;
 
