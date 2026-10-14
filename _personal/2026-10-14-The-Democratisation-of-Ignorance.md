@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Democratisation of Ignorance go.md"
+title: "The Democratisation of Ignorance.md"
 date: 2026-10-14
 ---
 # The Democratisation of Ignorance
