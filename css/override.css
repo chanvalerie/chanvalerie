@@ -90,15 +90,40 @@ hr {
   opacity: 0.3;
 }
 
-/* Reduce space between post meta and share links on post pages */
+/* Reduce space between post meta and share links on post pages: tighter version */
 .post-header {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0; /* remove gap below header */
+  display: inline-block; /* allow share-links to sit beside header on wide screens */
+  vertical-align: middle;
+  padding-bottom: 0;
 }
 
 .post-header .post-meta {
-  margin: 0;
+  margin: 0; /* remove any margins around meta line */
+  line-height: 1.05;
 }
 
 .share-links {
-  margin-top: 0.25rem;
+  margin-top: 0; /* pull share links up */
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.35rem; /* small gap between meta and share links */
+}
+
+/* If share links include their own margin/padding, tighten them specifically */
+.share-links * {
+  margin: 0;
+  padding: 0;
+}
+
+/* Responsive: stack on narrow screens but still tight */
+@media (max-width: 700px) {
+  .post-header, .share-links {
+    display: block;
+    vertical-align: top;
+  }
+  .share-links {
+    margin-top: 0.15rem;
+    margin-left: 0;
+  }
 }
