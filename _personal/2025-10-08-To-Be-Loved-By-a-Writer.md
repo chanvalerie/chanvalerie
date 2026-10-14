@@ -132,7 +132,7 @@ You could disappear from photographs. Your footprints could be erased by rain. Y
 
 But it would not matter. I would still have the page.
 
-That is the terrifying privilege of being loved by a writer: I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect presence — the impression of someone in the world.
+It's a terrifying privilege, being loved by a writer. I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect presence — the impression of someone in the world.
 
 Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, making grief a kind of physics.
 
