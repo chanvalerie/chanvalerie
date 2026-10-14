@@ -7,7 +7,7 @@ date: 2026-10-14
 
 <p style="text-align: center; margin: 1.5em 0;">
   <img width="378" height="264" alt="MagrittePipe" src="https://github.com/user-attachments/assets/5dadca0f-32d0-428f-a4d9-722d96c9a625" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
-  <sup style="display: block; margin-top: 0.5em; font-size: 0.75em; opacity: 0.8;">René Magritte, La Trahison des images (1929)</sup>
+  <sup style="display: block; margin-top: 0.5em; font-size: 0.75em; opacity: 0.8;">René Magritte, *La Trahison des images* (1929)</sup>
 </p>
 
 
