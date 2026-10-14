@@ -7,7 +7,7 @@ date: 2026-10-14
 
 <img width="378" height="264" alt="MagrittePipe" src="https://github.com/user-attachments/assets/5dadca0f-32d0-428f-a4d9-722d96c9a625" />
 
-<sup>La Trahison des images - 	René Magritte (1929) </sup>
+<sup>René Magritte, La Trahison des images (1929) </sup>
 
 &nbsp;
 
