@@ -19,7 +19,7 @@ title: Blog Archive
   </ul>
 {%- endfor %}
 
-<h3>Personal Essays</h3>
+<h3>Personal Essays & Social Commentary</h3>
 <ul>
   {%- assign personal_sorted = site.personal | sort: 'date' | reverse %}
   {%- for post in personal_sorted %}
