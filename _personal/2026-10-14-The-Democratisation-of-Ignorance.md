@@ -7,6 +7,8 @@ date: 2026-10-14
 
 <img width="378" height="264" alt="MagrittePipe" src="https://github.com/user-attachments/assets/5dadca0f-32d0-428f-a4d9-722d96c9a625" />
 
+<sup>La Trahison des images - 	René Magritte (1929) </sup>
+
 &nbsp;
 
 The democratisation of knowledge has produced a paradox: information has never been more accessible, yet expertise has become easier to dismiss. The internet has weakened the barriers that once restricted access to intellectual life, allowing people to question established ideas without the permission of universities, professional bodies, or political institutions. It has also made it easier to mistake access to information for an understanding of it.
