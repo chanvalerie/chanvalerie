@@ -126,7 +126,7 @@ hr {
   }
 }
 
-/* Article-only copy protection */
+/* Make article text non-selectable so it is harder to copy */
 .copy-protected,
 .copy-protected * {
   -webkit-user-select: none;
@@ -149,4 +149,18 @@ hr {
 
 .copy-protected {
   cursor: default;
+}
+
+/* Keep share links and buttons usable */
+.copy-protected .share-links,
+.copy-protected .share-links *,
+.copy-protected .post_navi,
+.copy-protected .post_navi *,
+.copy-protected .no-print,
+.copy-protected .no-print * {
+  -webkit-user-select: auto;
+  -moz-user-select: auto;
+  -ms-user-select: auto;
+  user-select: auto;
+  cursor: auto;
 }
