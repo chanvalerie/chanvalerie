@@ -127,3 +127,25 @@ hr {
     margin-left: 0;
   }
 }
+
+/* Prevent text selection and copy on the site */
+html, body, main, article, section, div, p, h1, h2, h3, h4, h5, h6,
+li, ul, ol, span, a, time, strong, em, code, pre {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+img, svg, canvas, video {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
+}
+
+body {
+  cursor: default;
+}
