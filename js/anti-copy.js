@@ -1,4 +1,7 @@
 (function() {
+  const article = document.querySelector('.copy-protected');
+  if (!article) return;
+
   function preventDefaultIfAllowed(event) {
     const target = event.target;
     if (target && /^(INPUT|TEXTAREA|SELECT|BUTTON)$/.test(target.tagName)) {

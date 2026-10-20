@@ -92,31 +92,29 @@ hr {
 
 /* Reduce space between post meta and share links on post pages: tighter version */
 .post-header {
-  margin-bottom: 0; /* remove gap below header */
-  display: inline-block; /* allow share-links to sit beside header on wide screens */
+  margin-bottom: 0;
+  display: inline-block;
   vertical-align: middle;
   padding-bottom: 0;
 }
 
 .post-header .post-meta {
-  margin: 0; /* remove any margins around meta line */
+  margin: 0;
   line-height: 1.05;
 }
 
 .share-links {
-  margin-top: 0; /* pull share links up */
+  margin-top: 0;
   display: inline-block;
   vertical-align: middle;
-  margin-left: 0.35rem; /* small gap between meta and share links */
+  margin-left: 0.35rem;
 }
 
-/* If share links include their own margin/padding, tighten them specifically */
 .share-links * {
   margin: 0;
   padding: 0;
 }
 
-/* Responsive: stack on narrow screens but still tight */
 @media (max-width: 700px) {
   .post-header, .share-links {
     display: block;
@@ -128,9 +126,9 @@ hr {
   }
 }
 
-/* Prevent text selection and copy on the site */
-html, body, main, article, section, div, p, h1, h2, h3, h4, h5, h6,
-li, ul, ol, span, a, time, strong, em, code, pre {
+/* Article-only copy protection */
+.copy-protected,
+.copy-protected * {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -138,7 +136,10 @@ li, ul, ol, span, a, time, strong, em, code, pre {
   -webkit-touch-callout: none;
 }
 
-img, svg, canvas, video {
+.copy-protected img,
+.copy-protected svg,
+.copy-protected canvas,
+.copy-protected video {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -146,6 +147,6 @@ img, svg, canvas, video {
   pointer-events: none;
 }
 
-body {
+.copy-protected {
   cursor: default;
 }
