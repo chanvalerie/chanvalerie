@@ -126,28 +126,49 @@ hr {
   }
 }
 
-/* Make article text non-selectable so it is harder to copy */
+/* Make article pages non-selectable */
+body,
+.page-content,
+.wrapper,
+article,
+.post,
+.post-content,
 .copy-protected,
-.copy-protected * {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+.copy-protected *,
+.page-content *,
+.wrapper *,
+.post-content *,
+article * {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
   -webkit-touch-callout: none;
+}
+
+::selection {
+  background: transparent;
+  color: inherit;
 }
 
 .copy-protected img,
 .copy-protected svg,
 .copy-protected canvas,
-.copy-protected video {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+.copy-protected video,
+.post-content img,
+.post-content svg,
+.post-content canvas,
+.post-content video {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
   pointer-events: none;
 }
 
-.copy-protected {
+.copy-protected,
+.post,
+article {
   cursor: default;
 }
 
@@ -157,10 +178,16 @@ hr {
 .copy-protected .post_navi,
 .copy-protected .post_navi *,
 .copy-protected .no-print,
-.copy-protected .no-print * {
-  -webkit-user-select: auto;
-  -moz-user-select: auto;
-  -ms-user-select: auto;
-  user-select: auto;
+.copy-protected .no-print *,
+.post-content .share-links,
+.post-content .share-links *,
+.post-content .post_navi,
+.post-content .post_navi *,
+.post-content .no-print,
+.post-content .no-print * {
+  -webkit-user-select: auto !important;
+  -moz-user-select: auto !important;
+  -ms-user-select: auto !important;
+  user-select: auto !important;
   cursor: auto;
 }
