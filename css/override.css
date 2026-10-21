@@ -126,28 +126,24 @@ hr {
   }
 }
 
-/* Make article pages non-selectable */
-body,
-.page-content,
-.wrapper,
-article,
-.post,
+/* Allow article text to be selectable again */
+article.copy-protected,
+article.copy-protected *,
 .post-content,
-.copy-protected,
-.copy-protected *,
-.page-content *,
-.wrapper *,
 .post-content *,
-article * {
-  -webkit-user-select: none !important;
-  -moz-user-select: none !important;
-  -ms-user-select: none !important;
-  user-select: none !important;
-  -webkit-touch-callout: none;
+.page-content,
+.page-content *,
+.wrapper,
+.wrapper * {
+  -webkit-user-select: text !important;
+  -moz-user-select: text !important;
+  -ms-user-select: text !important;
+  user-select: text !important;
+  -webkit-touch-callout: default;
 }
 
 ::selection {
-  background: transparent;
+  background: rgba(59, 130, 246, 0.25);
   color: inherit;
 }
 
