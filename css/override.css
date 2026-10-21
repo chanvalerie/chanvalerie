@@ -184,7 +184,17 @@ article {
 .post-content .post_navi,
 .post-content .post_navi *,
 .post-content .no-print,
-.post-content .no-print * {
+.post-content .no-print *,
+.copy-protected a,
+.copy-protected button,
+.copy-protected input,
+.copy-protected textarea,
+.copy-protected select,
+.post-content a,
+.post-content button,
+.post-content input,
+.post-content textarea,
+.post-content select {
   -webkit-user-select: auto !important;
   -moz-user-select: auto !important;
   -ms-user-select: auto !important;
