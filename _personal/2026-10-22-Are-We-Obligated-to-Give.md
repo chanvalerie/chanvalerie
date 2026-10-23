@@ -119,6 +119,8 @@ The question of giving ultimately concerns more than the willingness to share wh
 
 ___
 
+&nbsp; 
+
 <sup>1. Carnegie, A. (1889). ‘Wealth’. *North American Review*, 148(391), pp. 653–664.</sup>
 
 <sup>2. Krause, P. (1992). *The Battle for Homestead, 1880–1892: Politics, Culture, and Steel*. Pittsburgh: University of Pittsburgh Press.</sup>
