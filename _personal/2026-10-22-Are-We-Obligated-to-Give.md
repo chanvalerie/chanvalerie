@@ -14,8 +14,11 @@ The question extends beyond wealthy industrialists. Giving is usually presented 
 This essay examines four questions:
 
 A) Are people morally obligated to give, or should giving remain voluntary?
+
 B) Does having greater wealth create a greater obligation to give?
+
 C) Must giving take the form of money?
+
 D) Can charity address poverty and injustice, or does it leave the causes of deprivation intact?
 
 The questions overlap, but the answers depend on competing ideas about ownership, responsibility and the relationship between individuals and society. Peter Singer argues that people have demanding obligations to prevent suffering. Immanuel Kant treats beneficence as a moral duty while preserving discretion over its fulfilment. Other philosophers question whether private generosity can discharge obligations that properly belong to justice. Their disagreements shape how the actions of someone like Carnegie should be understood.
