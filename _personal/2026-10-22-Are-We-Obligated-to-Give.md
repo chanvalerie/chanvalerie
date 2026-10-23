@@ -117,7 +117,7 @@ Carnegie’s libraries remain a significant part of his legacy, extending access
 
 The question of giving ultimately concerns more than the willingness to share what one possesses. It concerns what people are entitled to keep, what they owe to others and how those obligations should be fulfilled. Carnegie’s example brings these issues together in the life of one industrialist, but the same questions apply whenever private resources are used to address needs that extend beyond the person who owns them.
 
-#### References
+___
 
 <sup>1. Carnegie, A. (1889). ‘Wealth’. *North American Review*, 148(391), pp. 653–664.</sup>
 
