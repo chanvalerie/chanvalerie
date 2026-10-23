@@ -23,7 +23,7 @@ These questions also concern how generosity should be judged: by the amount give
 
 Philosophers have approached these questions from different directions. Singer argues that people should prevent suffering whenever they can do so without sacrificing anything of comparable moral importance. Immanuel Kant treats beneficence as a genuine duty while allowing people discretion over how they fulfil it. Aristotle examines generosity as a virtue requiring judgement, while critics of private philanthropy question whether giving allows wealthy individuals to exercise too much influence over public priorities. Their disagreements reveal how much is at stake in deciding what people owe to one another, especially when some have far more resources than they could ever spend.
 
-## What does it mean to be obligated to give?
+### What does it mean to be obligated to give?
 
 Giving is often described as an act of generosity, something admirable precisely because the giver was free to refuse. A donation made out of compassion earns praise; a donation made under pressure may feel less generous, even when the recipient benefits in exactly the same way. This way of thinking places giving within the realm of personal virtue, where people can choose to do more than morality requires.
 
@@ -35,7 +35,7 @@ The idea that giving is obligatory also appears in religious traditions, althoug
 
 If giving can be a duty, the absence of a donation cannot automatically be defended by saying that nobody was entitled to it. That defence already assumes what needs to be established: that a person's claim to keep their resources takes precedence over another person's need.
 
-## Are we morally required to help strangers?
+### Are we morally required to help strangers?
 
 Singer's argument challenges the tendency to reserve our strongest obligations for people we know. Most people accept that they should help a friend in danger, or that parents have special responsibilities towards their children. Obligations to strangers are often treated as less immediate, especially when those strangers live in another country and their circumstances remain outside everyday experience.
 
@@ -47,7 +47,7 @@ One response is that people cannot be expected to live indefinitely at the expen
 
 Yet the objection does not establish that people have no obligations beyond their immediate circle. It suggests that the scope of those obligations needs careful consideration. There is a difference between expecting someone to sacrifice everything and expecting them to give up some comforts they could easily do without. Singer's argument is uncomfortable partly because ordinary spending habits often leave considerable room between those two possibilities.
 
-## Does having more make you more obligated to give?
+### Does having more make you more obligated to give?
 
 A person earning enough to cover rent and food may have little spare money after paying bills. Someone with millions of pounds can donate a considerable amount without affecting their daily life. Treating both people as equally obligated to give the same sum would ignore the very different sacrifices involved.
 
@@ -61,7 +61,7 @@ That discretion is contentious. A wealthy donor can fund a university, establish
 
 The obligation of the rich therefore concerns more than the amount they donate. It includes questions about how fortunes were accumulated, what responsibilities accompany ownership, and how much authority private wealth should confer over public life.
 
-## Does giving have to involve money?
+### Does giving have to involve money?
 
 Money is one way to help, and often an effective one. It can fund medical treatment, pay for emergency accommodation or allow an organisation to employ people who understand the needs of the communities it serves. Yet a monetary measure of generosity leaves much of the work involved in helping others uncounted.
 
@@ -85,7 +85,7 @@ This changes the way charitable acts can be evaluated. A business owner might do
 
 Giving and political action can serve different purposes. A donation may meet an immediate need; collective action can change the arrangements that repeatedly produce it. Neither activity guarantees the success of the other, and people may reasonably disagree about which intervention is most effective in a given situation.
 
-## Can philanthropy itself become a form of power?
+### Can philanthropy itself become a form of power?
 
 Large donations often come with influence. A donor may decide which research receives funding, which cultural institutions expand, or which social problems attract public attention. These decisions can lead to valuable work, particularly when established institutions are unwilling to support unfamiliar ideas. Private funding can also sustain organisations that challenge the preferences of governments or powerful commercial interests.
 
@@ -99,7 +99,7 @@ There are also reasons to preserve space for voluntary giving. Public institutio
 
 The responsibility of wealthy donors therefore extends to the way they give, not only the amount. Consultation, transparency and respect for the judgement of recipients can shape whether a donation expands people's choices or makes them more dependent on someone else's preferences.
 
-## If giving is obligatory, can it still be generous?
+### If giving is obligatory, can it still be generous?
 
 If a person gives because they believe they have a duty to do so, the act may seem less generous than one performed spontaneously. Yet the distinction between obligation and generosity is not straightforward. People can recognise responsibilities and fulfil them with care. A sense of duty does not necessarily exclude compassion, just as a warm feeling does not guarantee that a gift is appropriate.
 
@@ -111,7 +111,7 @@ At the same time, scrutinising motives too closely can distract from the person 
 
 Perhaps generosity is best understood as a quality that can accompany the fulfilment of an obligation, rather than a reason to deny that the obligation exists. A person may owe assistance and still choose to provide it thoughtfully, without using the act to claim superiority over the recipient.
 
-## How much are we allowed to keep?
+### How much are we allowed to keep?
 
 Any argument for giving eventually encounters the question of what people may reasonably retain for themselves. Singer's position places considerable pressure on the idea that comfort and luxury deserve priority over preventable suffering. Other moral approaches allow more space for personal projects, relationships and the pursuit of a life that is not organised entirely around the needs of strangers.
 
