@@ -124,15 +124,15 @@ date: 2026-08-21
 
 You will never die; I have already made you immortal.
 
-Not in the way religions promise heaven, nor in the way monuments pretend stone can resist time. You exist now in language, and language has always been humanity’s most beautiful refusal to accept death.
+Far from the promises of heaven; far from the vain hope that stone monuments can resist time. You inhabit language, and language has always been humanity’s most beautiful refusal to accept death.
 
 I write you the way historians write civilisations they are terrified will be forgotten. Thoroughly. Obsessively. With the desperate precision of someone cataloguing ruins before the last wall collapses.
 
-You could disappear from photographs. Your footprints could be erased by rain. Years could pass over your name until no one remembers how it once sounded in the mouth of the person who loved you.
+You could fade from photographs. Rain could wash away your footprints. Years could drift over your name until the sound of it slips from the memory of everyone who once loved you.
 
-But it would not matter. I would still have the page.
+Even so, the page endures. 
 
-It's a terrifying privilege, being loved by a writer. I do not need eternity to keep you alive; I only need words. Ink does not resurrect the body, but it can resurrect presence — the impression of someone in the world.
+It’s a terrifying privilege, being loved by a writer. I do not need eternity to keep you alive; I only need words. Ink surrenders the body, only to resurrect presence — the lingering impression of someone in a hollow world.
 
 Science tells us that matter changes form. Nothing truly vanishes; it becomes something else. Ash becomes earth. Light travels long after its star has disappeared. Energy moves through the universe, making grief a kind of physics.
 
@@ -140,34 +140,34 @@ So I suppose writing is my version of physics.
 
 You become language.
 
-Your laughter becomes punctuation. Your silence becomes white space. Your eyes become imagery. Your existence becomes metaphor, and metaphor is a strange afterlife because it allows the dead to keep changing shapes.
+Your laughter becomes punctuation. Your silence becomes white space. Your eyes become imagery. Your existence becomes metaphor.
 
-I could write you into a poem tonight, and centuries from now someone could read it without knowing your face, your voice, or the years you existed. They would still encounter you. Not as history, but as presence.
+I could write you into a poem tonight, and centuries from now a stranger could read it, blind to your face, your voice, or the years you lived. They would encounter you as living presence.
 
-*That is how I will betray death.*
+That is how I betray death.
 
 *I will give you a thousand lives.*
 
-In one poem, you will be the constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you will be the small, ordinary cruelty that taught me what longing looks like.
+In one poem, you will be the constellation I keep mistaking for a way home. In another, you will be the abandoned cathedral where every prayer I never said continues to echo. In my prose, you will be the small, ordinary cruelty that taught me the shape of longing.
 
 And every time someone reads you, you will happen again. That is the closest thing to resurrection I know.
 
-To be loved by a writer is to be condemned to eternity — not because the writer possesses some divine power over death, but because writers are incapable of letting the things that ruin them disappear.
+To be loved by a writer is to be condemned to eternity — born of our helplessness, our sheer inability to let the things that ruin us disappear into the void.
 
-*You may outlive your body. You may outlive your photograph. You may even outlive the memory of the people who knew you.*
+*You may outlive your body. You may outlive your portrait. You may outlive the memories of the living.*
 
 But for as long as I have words, you will continue to exist.
 
-Not exactly as you were, but something permanent. Something made entirely of language and therefore impossible to bury.
+Altered, perhaps, from what you were, transformed into something permanent. Something woven entirely of language, immune to the earth.
 
-You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain why losing you felt like losing an entire universe.
+You will remain between the lines of my poems, inside the margins of my notebooks, beneath the fingerprints of every sentence that tried to explain how losing you felt like the collapse of an entire universe.
 
-And when I am gone too, perhaps someone will find these pages.
+When I am gone too, someone will find these pages.
 
-They will read your name. They will not know you, but for a moment, you will breathe again.
+They will read your name. Strangers to your life, they will still feel you breathe again for a brief, borrowed moment.
 
-And that will be enough.
+That will be enough.
 
-Because I cannot promise you immortality in the heavens. I can only promise you this:
+Heaven remains beyond my giving, so I promise you this alone:
 
 *I will keep writing.*
