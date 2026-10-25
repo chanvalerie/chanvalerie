@@ -5,7 +5,7 @@ date: 2026-10-22
 ---
 # Are We Obligated to Give?
 
-For centuries, religious communities treated giving as an obligation, including tithes in Christian parishes and *zakat* in Islamic jurisprudence. In these communities, aiding impoverished neighbours was an explicit command and civic duty. During the 19th and 20th centuries, industrialisation shifted these local safety nets toward organised philanthropic trusts and secular charities operating at global scales. 
+For centuries, religious communities treated helping impoverished neighbours as a command and a civic duty, collecting tithes in Christian parishes and *zakat* under Islamic law. In the 19th and 20th centuries, industrialisation shifted this work from parishes and local religious institutions towards philanthropic trusts and secular charities operating on a global scale.
 
 In his 1889 essay *The Gospel of Wealth*, Andrew Carnegie articulated an explicit standard of secular stewardship, asserting that “The man who dies rich dies disgraced.” He argued that individuals with vast fortunes bear a responsibility to administer their surplus capital for the public benefit during their lifetimes. His perspective linked traditional religious obligations with modern secular ethics, establishing surplus wealth as an area of social accountability.<sup>1</sup>
 
