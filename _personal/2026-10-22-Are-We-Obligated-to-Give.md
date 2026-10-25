@@ -5,49 +5,49 @@ date: 2026-10-22
 ---
 # Are We Obligated to Give?
 
-Religious traditions long structured assistance through codified obligations, including *tithes* in Christian parishes and *zakat* in Islamic jurisprudence. In these communities, aiding impoverished neighbors was an explicit command and civic duty. During the 19th and 20th centuries, industrialization shifted these local safety nets toward organized philanthropic trusts and secular charities operating at global scales.
+Religious traditions long structured assistance through codified obligations, including *tithes* in Christian parishes and *zakat* in Islamic jurisprudence. In these communities, aiding impoverished neighbors was an explicit command and civic duty.<sup>1</sup> During the 19th and 20th centuries, industrialization shifted these local safety nets toward organized philanthropic trusts and secular charities operating at global scales.
 
 In recent years, observers have noted that individual giving appears to have diminished across many societies. Rising living costs place tighter constraints on household budgets, while cynicism about institutional overhead and fatigue from constant digital appeals make donors hesitate. Yet human suffering across the globe persists, and the resources needed to address it exist in abundance among affluent populations.
 
-In his 1972 essay *Famine, Affluence, and Morality*, Peter Singer invites readers to imagine walking past a shallow pond and seeing a child drowning. Stepping into the water will ruin a pair of expensive shoes and soil one’s clothes, yet walking past without acting constitutes a severe moral failure. The preservation of human life outweighs the preservation of personal footwear. Singer applies this physical scenario to foreign assistance. when an individual can prevent severe harm without sacrificing anything of comparable moral significance, an ethical obligation to act exists.
+In his 1972 essay *Famine, Affluence, and Morality*, Peter Singer invites readers to imagine walking past a shallow pond and seeing a child drowning. Stepping into the water will ruin a pair of expensive shoes and soil one’s clothes, yet walking past without acting constitutes a severe moral failure. The preservation of human life outweighs the preservation of personal footwear. Singer applies this physical scenario to foreign assistance. when an individual can prevent severe harm without sacrificing anything of comparable moral significance, an ethical obligation to act exists.<sup>2</sup>
 
-Conventional ethics treats charitable donations as voluntary acts of personal generosity, worthy of praise when given and immune from criticism when withheld. Singer challenges that division. When a person possesses surplus income that could prevent starvation or fatal illness in a distant country, spending that surplus on unnecessary consumer goods represents a failure of basic moral duty.
+Conventional ethics treats charitable donations as voluntary acts of personal generosity, worthy of praise when given and immune from criticism when withheld. Singer challenges that division. When a person possesses surplus income that could prevent starvation or fatal illness in a distant country, spending that surplus on unnecessary consumer goods represents a failure of basic moral duty.<sup>2</sup>
 
-Accepting Singer’s premise raises questions about the limits of moral duty. Must every spare pence go toward charity? Should someone choose a less fulfilling career because it would allow them to donate more? In *Moral Saints* (1982), Susan Wolf questions whether a life dedicated entirely to moral perfection would eliminate the pursuits that give human life its rich texture. If every penny and waking hour must be directed toward alleviating suffering, personal ambitions and intimate relationships lose their independent value. The tension between Singer’s imperative to reduce suffering and Wolf’s defense of human flourishing defines the core dilemma of ethical giving.
+Accepting Singer’s premise raises questions about the limits of moral duty. Must every spare pence go toward charity? Should someone choose a less fulfilling career because it would allow them to donate more? In *Moral Saints* (1982), Susan Wolf questions whether a life dedicated entirely to moral perfection would eliminate the pursuits that give human life its texture.<sup>3</sup> If every penny and waking hour must be directed toward alleviating suffering, personal ambitions and intimate relationships lose their independent value. The tension between Singer’s imperative to reduce suffering and Wolf’s defense of human flourishing defines the core dilemma of ethical giving.
 
 #### When does generosity become a duty?
 
-The drowning-child thought experiment derives its power from the imbalance between the stakes. On one side lies a human life; on the other lies the cost of wet clothing. Bystanders who refuse to wade into the water to rescue the child face condemnation because the required personal sacrifice is negligible compared to the catastrophe prevented.
+The drowning-child thought experiment derives its power from the imbalance between the stakes. On one side lies a human life; on the other lies the cost of wet clothing. Bystanders who refuse to wade into the water to rescue the child face condemnation because the required personal sacrifice is negligible compared to the catastrophe prevented.<sup>2</sup>
 
-Singer contends that physical separation does not alter the underlying moral relationship. A contribution to a relief agency provides medicine, clean drinking water, or medical treatment to someone in peril. Although the donor never meets the recipient and cannot watch the intervention unfold, the ethical components match the pond scenario: severe peril exists, and an individual possesses the capacity to intervene without endangering their own security.
+Singer contends that physical separation does not alter the underlying moral relationship. A contribution to a relief agency provides medicine, clean drinking water, or medical treatment to someone in peril. Although the donor never meets the recipient and cannot watch the intervention unfold, the ethical components match the pond scenario: severe peril exists, and an individual possesses the capacity to intervene without endangering their own security.<sup>2</sup>
 
-Spatial location and national borders lack ethical relevance in evaluating human suffering. Physical distance changes how people feel about suffering, yet geographical separation does not diminish the reality of the harm or the responsibility of those equipped to alleviate it. A stranger collapsing nearby prompts an immediate impulse to intervene, whereas people suffering from famine thousands of miles away often appear as distant abstractions.
+Spatial location and national borders lack ethical relevance in evaluating human suffering. Physical distance changes how people feel about suffering, yet geographical separation does not diminish the reality of the harm or the responsibility of those equipped to alleviate it. A stranger collapsing nearby prompts an immediate impulse to intervene, whereas people suffering from famine thousands of miles away often appear as distant abstractions.<sup>2</sup>
 
-Taking this obligation seriously alters ordinary spending decisions. Purchasing luxury goods or high-end electronics while people die of preventable diseases conflicts with Singer’s principle. The pleasure derived from novel possessions cannot outweigh the vital needs of people facing severe deprivation. When an individual has surplus funds and reliable channels to deliver aid, withholding assistance constitutes an ethical failure.
+Taking this obligation seriously alters ordinary spending decisions. Purchasing luxury goods or high-end electronics while people die of preventable diseases conflicts with Singer’s principle. The pleasure derived from novel possessions cannot outweigh the vital needs of people facing severe deprivation. When an individual has surplus funds and reliable channels to deliver aid, withholding assistance constitutes an ethical failure. <sup>2</sup>
 
-Ethical requirements depend on context and feasibility. People cannot predict every outcome of their purchases, and relief organisations differ in their operational competence. Singer’s argument applies when the need is acute and the personal sacrifice remains proportionate.
+Ethical requirements depend on context and feasibility. People cannot predict every outcome of their purchases, and relief organisations differ in their operational competence. Singer’s argument applies when the need is acute and the personal sacrifice remains proportionate.<sup>2</sup> Later debates about the demandingness of morality have examined whether such principles impose excessive requirements on ordinary people, particularly when sacrifices must be repeated indefinitely.<sup>4</sup> 
 
 These conditions apply to many contemporary aid efforts. When assistance can prevent harm at manageable personal cost, withholding that help warrants moral criticism. Describing such aid as mere generosity misrepresents an ethical requirement as an optional luxury.
 
 #### Must morality come before everything else?
 
-Singer’s standard becomes increasingly demanding as one traces its logical conclusion. If every expenditure beyond basic sustenance should be converted into life-saving aid, then every hour of leisure and every professional decision must undergo strict utilitarian scrutiny. An individual would have to evaluate career options solely by their earning potential for philanthropic donation, turning daily life into an unrelenting calculation of utility.
+Singer’s standard becomes increasingly demanding as one traces its logical conclusion. If every expenditure beyond basic sustenance should be converted into life-saving aid, then every hour of leisure and every professional decision must undergo strict utilitarian scrutiny. An individual would have to evaluate career options solely by their earning potential for philanthropic donation, turning daily life into an unrelenting calculation of utility.<sup>2 4</sup> 
 
-Susan Wolf identifies the costs of such total devotion in *Moral Saints*. She analyses the concept of a person whose every action seeks the greatest moral good, whether out of pure altruism or strict obedience to duty. Wolf argues that such an ideal is fundamentally flawed because it excludes non-moral virtues. A moral saint cannot cultivate artistic talents or master crafts, because such endeavours consume resources that could relieve human hardship.
+Susan Wolf identifies the costs of such total devotion in *Moral Saints*. She analyses the concept of a person whose every action seeks the greatest moral good, whether out of pure altruism or strict obedience to duty. Wolf argues that such an ideal is fundamentally flawed because it excludes non-moral virtues. A moral saint cannot cultivate artistic talents or master crafts, because such endeavours consume resources that could relieve human hardship.<sup>3</sup> 
 
-Human lives derive depth from commitments that resist moral calculation. Deep friendships demand loyalty and time that cannot be redistributed to unfamiliar strangers on utilitarian grounds. Creative endeavours and scientific inquiry hold value regardless of whether they produce quantifiable social benefits. Expecting individuals to evaluate every passion by its capacity to reduce global suffering ignores the distinct pursuits that give life purpose.
+Human lives derive depth from commitments that resist moral calculation. Deep friendships demand loyalty and time that cannot be redistributed to unfamiliar strangers on utilitarian grounds. Creative endeavours and scientific inquiry hold value regardless of whether they produce quantifiable social benefits. Expecting individuals to evaluate every passion by its capacity to reduce global suffering ignores the distinct pursuits that give life purpose.<sup>3</sup> 
 
 Wolf’s critique does not excuse indifference toward human suffering. Rejecting the ideal of moral sainthood does not release individuals from their obligations to others. A person can decline to dedicate every waking hour to philanthropic work while still recognising that a portion of their resources should go toward relieving severe deprivation.
 
-Singer demonstrates that comfortable individuals have duties toward those enduring extreme poverty, preventing people from treating benevolence as a mere whim. Wolf establishes that ethical obligations must not extinguish personal identity and cultural pursuits. A coherent framework expects substantial contributions from those with surplus resources while preserving their freedom to maintain personal projects and deep relationships.
+Singer demonstrates that comfortable individuals have duties toward those enduring extreme poverty, preventing people from treating benevolence as a mere whim.<sup>2</sup>  Wolf establishes that ethical obligations must not extinguish personal identity and cultural pursuits.<sup>3</sup>  A coherent framework expects substantial contributions from those with surplus resources while preserving their freedom to maintain personal projects and deep relationships.
 
 #### How much do we owe?
 
 Determining the boundaries of individual responsibility requires assessing both the recipient’s vulnerability and the donor’s situation. Foregoing a luxury holiday to finance medical treatments involves a different kind of sacrifice than skipping a meal to send funds abroad. A fair ethical standard accounts for the weight of what a person relinquishes, distinguishing between surplus wealth and resources required for personal security.
 
-Singer’s argument creates discomfort because it targets habitual spending that comfortable households take for granted. Upgrading a functional smartphone and dining at expensive restaurants represent discretionary choices that could easily fund life-saving treatments. A substantial donation does not compromise an affluent family’s physical well-being or long-term financial security, yet it delivers essential relief to people facing destitution.
+Singer’s argument creates discomfort because it targets habitual spending that comfortable households take for granted. Upgrading a functional smartphone and dining at expensive restaurants represent discretionary choices that could easily fund life-saving treatments. A substantial donation does not compromise an affluent family’s physical well-being or long-term financial security, yet it delivers essential relief to people facing destitution.<sup>2</sup> 
 
-Immanuel Kant provides a framework that reconciles genuine obligation with personal discretion. In Kant’s ethics, beneficence is an imperfect duty. Individuals must adopt the well-being of others as a practical goal, yet the moral law does not dictate every specific occasion or financial sum. This concept acknowledges that people possess legitimate personal ends and cannot assist every person in need, while insisting that they must actively integrate helping others into their life plans.
+Immanuel Kant provides a framework that reconciles genuine obligation with personal discretion. In Kant’s ethics, beneficence is an imperfect duty. Individuals must adopt the well-being of others as a practical goal, yet the moral law does not dictate every specific occasion or financial sum.<sup>5</sup>  This concept acknowledges that people possess legitimate personal ends and cannot assist every person in need, while insisting that they must actively integrate helping others into their life plans. Kant develops this account of duties towards others in The Metaphysics of Morals, particularly in the Doctrine of Virtue.<sup>5</sup>
 
 Proportionality requires recognising disparities in financial capacity. A person working multiple low-wage jobs to pay for heating and rent cannot bear the same expectations as a corporate executive with substantial disposable wealth. Demanding monetary contributions from those who struggle to meet their own basic needs causes real deprivation. Respect for human dignity means that those with extensive financial reserves carry a far greater duty to contribute than those facing economic instability.
 
@@ -75,9 +75,9 @@ An ethical danger arises when private charity becomes a justification for state 
 
 #### What do we owe to others?
 
-Classifying all assistance as voluntary generosity shields affluent individuals from ethical evaluation. Peter Singer demonstrates that when a person can prevent profound suffering at a proportionate personal cost, aiding others constitutes an obligation. Distance and unfamiliarity do not diminish this duty.
+Classifying all assistance as voluntary generosity shields affluent individuals from ethical evaluation. Peter Singer demonstrates that when a person can prevent profound suffering at a proportionate personal cost, aiding others constitutes an obligation. Distance and unfamiliarity do not diminish this duty.<sup>2</sup>
 
-Susan Wolf’s critique protects the diversity of human life from being suppressed under single-minded moral demands. Living ethically does not require abandoning personal passions or loving relationships. A coherent moral life balances responsiveness to urgent global needs with the pursuit of personal projects.
+Susan Wolf’s critique protects the diversity of human life from being suppressed under single-minded moral demands. Living ethically does not require abandoning personal passions or loving relationships.<sup>3</sup> A coherent moral life balances responsiveness to urgent global needs with the pursuit of personal projects.
 
 Clear numerical formulas cannot dictate the exact boundary between personal expenditure and obligatory giving for every individual. People face diverse financial circumstances and family commitments. Yet this complexity demands sustained personal reflection, not simple indifference.
 
@@ -85,10 +85,17 @@ Assisting people in severe peril should be expected as an ethical duty. When hum
 
 ___
 
-Kant, I. (1785). *Groundwork of the Metaphysics of Morals*.
+&nbsp;
 
-MacAskill, W. (2015). *Doing Good Better: How Effective Altruism Can Help You Make a Difference*. Guardian Faber.
+<sup>1. Kant, I. (1785). *Groundwork of the Metaphysics of Morals*.</sup>
 
-Singer, P. (1972). “Famine, Affluence, and Morality.” *Philosophy & Public Affairs*, 1(3), 229–243.
+<sup>2. Singer, P. (1972). “Famine, Affluence, and Morality.” *Philosophy & Public Affairs*, 1(3), 229–243.</sup>
 
-Wolf, S. (1982). “Moral Saints.” *The Journal of Philosophy*, 79(8), 419–439.
+<sup>3. Wolf, S. (1982). “Moral Saints.” *The Journal of Philosophy*, 79(8), 419–439.</sup>
+
+<sup>4. Cullity, G. (2004) The Moral Demands of Affluence. Oxford: Oxford University Press.</sup>
+
+<sup>5. Kant, I. (1996) Practical Philosophy. Translated and edited by M.J. Gregor. Cambridge: Cambridge University Press. Includes Groundwork of the Metaphysics of Morals (1785) and The Metaphysics of Morals (1797).</sup>
+
+<sup> 6. MacAskill, W. (2015). *Doing Good Better: How Effective Altruism Can Help You Make a Difference*. Guardian Faber.</sup>
+
