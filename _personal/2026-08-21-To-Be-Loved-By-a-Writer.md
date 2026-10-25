@@ -168,6 +168,6 @@ They will read your name. Strangers to your life, they will still feel you breat
 
 That will be enough.
 
-Heaven remains beyond my giving, so I promise you this alone:
+Because I cannot promise you immortality in the heavens. I can only promise you this:
 
 *I will keep writing.*
