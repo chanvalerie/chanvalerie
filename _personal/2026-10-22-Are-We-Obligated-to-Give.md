@@ -17,7 +17,7 @@ Conventional ethics treats charitable donations as voluntary acts of personal ge
 
 Accepting Singer’s premise raises questions about the limits of moral duty. Must every spare penny go toward charity? Should someone choose a less fulfilling career because it would allow them to donate more? In *Moral Saints* (1982), Susan Wolf questions whether a life dedicated entirely to moral perfection would eliminate the pursuits that give human life its texture.<sup>3</sup> If every penny and waking hour must be directed toward alleviating suffering, personal ambitions and intimate relationships lose their independent value. The tension between Singer’s imperative to reduce suffering and Wolf’s defense of human flourishing defines the core dilemma of ethical giving.
 
-#### When does generosity become a duty?
+### When does generosity become a duty?
 
 The drowning-child thought experiment derives its power from the imbalance between the stakes. On one side lies a human life; on the other lies the cost of wet clothing. Bystanders who refuse to wade into the water to rescue the child face condemnation because the required personal sacrifice is negligible compared to the catastrophe prevented.
 
@@ -31,7 +31,7 @@ Ethical requirements depend on context and feasibility. People cannot predict ev
 
 These conditions apply to many contemporary aid efforts. When assistance can prevent harm at manageable personal cost, withholding that help warrants moral criticism. Describing such aid as mere generosity misrepresents an ethical requirement as an optional luxury.
 
-#### Must morality come before everything else?
+### Must morality come before everything else?
 
 Singer’s standard becomes increasingly demanding as one traces its logical conclusion. If every expenditure beyond basic sustenance should be converted into life-saving aid, then every hour of leisure and every professional decision must undergo strict utilitarian scrutiny. An individual would have to evaluate career options solely by their earning potential for philanthropic donation, turning daily life into an unrelenting calculation of utility.<sup>2,4</sup> 
 
@@ -43,7 +43,7 @@ Wolf’s critique leaves the duty to relieve suffering in place. Giving up the i
 
 Singer demonstrates that comfortable individuals have duties toward those enduring extreme poverty, preventing people from treating benevolence as a mere whim.<sup>2</sup>  Wolf establishes that ethical obligations must not extinguish personal identity and cultural pursuits.<sup>3</sup>  A coherent framework expects substantial contributions from those who can comfortably afford them, while preserving their freedom to maintain personal projects and deep relationships.
 
-#### How much do we owe?
+### How much do we owe?
 
 Determining the boundaries of individual responsibility requires assessing both the recipient’s vulnerability and the donor’s situation. Foregoing a luxury holiday to finance medical treatments involves a different kind of sacrifice than skipping a meal to send funds abroad. A fair ethical standard accounts for the weight of what a person relinquishes, distinguishing between money they can give up and money they need for personal security.
 
@@ -59,7 +59,7 @@ The traditions mentioned at the start of this essay answer the question of _how 
 
 The structure addresses several problems: in Singer’s formulation, the obligation continues until further giving would cost something of comparable importance, and Kant’s imperfect duty leaves each person to decide when they have done enough. A fixed rate gives both the generous and the comfortable a line. Those whose wealth falls below the threshold owe nothing, which builds the proportionality discussed above into the rule itself, and a person with greater savings pays a larger sum at the same rate. Because the floor is set, Wolf’s concern is also met: anything beyond it is left to personal discretion, so the demand never grows to cover a whole life.
 
-#### Does helping have to mean donating?
+### Does helping have to mean donating?
 
 Financial giving is only one avenue for fulfilling moral responsibilities. Providing care and volunteering professional skills still contributes to alleviating distress. Individuals who lack substantial financial savings often possess specialised skills or available time that can address urgent human needs. Recognising diverse forms of assistance ensures that ethical expectations reflect human differences. A physician can contribute specialised medical expertise and a neighbour might provide dependable childcare to single parents. An ethical model centred solely on bank transfers overlooks the value of personal labour and relational care.
 
@@ -67,7 +67,7 @@ Philosophers associated with effective altruism, such as William MacAskill, poin
 
 Yet quantifiable metrics cannot capture every dimension of human assistance. Some obligations arise from personal bonds, such as caring for a sick relative or supporting a struggling friend, where substituting a more cost-effective global intervention would betray the relationship itself. Special duties toward family members and immediate neighbours retain moral legitimacy alongside the broader obligation to relieve suffering across the world.
 
-#### Who is responsible for helping?
+### Who is responsible for helping?
 
 Systemic problems like endemic poverty and inadequate healthcare infrastructure operate on a scale that individual philanthropy cannot resolve alone. Voluntary donations can supply emergency food or fund localised clinics, but private charity cannot guarantee comprehensive social protections across an entire population. Relying exclusively on private generosity leaves vulnerable populations exposed to donor preferences and economic cycles.
 
@@ -81,7 +81,7 @@ Individual obligations remain in place alongside state responsibility. Public in
 
 An ethical danger arises when private charity becomes a justification for state abdication. If communities accept private food banks and crowd-funded medical appeals as the standard response to human deprivation, pressure on public institutions to guarantee basic survival diminishes. Fulfilling personal duties of aid must occur without treating voluntary giving as an adequate substitute for reliable public systems.
 
-#### What do we owe to others?
+### What do we owe to others?
 
 Classifying all assistance as voluntary generosity shields affluent individuals from ethical evaluation. Peter Singer demonstrates that when a person can prevent profound suffering at a proportionate personal cost, aiding others constitutes an obligation. Distance and unfamiliarity do not diminish this duty.<sup>2</sup>
 
