@@ -1,4 +1,4 @@
-# Whose Desire Is It?
+# The Parasite and The Will
 
 Discussions of free will usually centre on whether we can act otherwise in a physically determined world. It starts from the assumption that our desires are ours, taking for granted that internal desires belong to the individual experiencing them. A parasite that makes a rat want to approach a cat challenges that premise, by demonstrating that the desire itself can be written by someone else. If that is possible, the question of whether we are free to act on our desires comes after a more fundamental question: whether our desires belong to us at all
 
