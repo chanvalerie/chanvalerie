@@ -75,7 +75,7 @@ Pogge’s work reiterates this question of responsibility in *World Poverty and 
 
 Carnegie’s career shows the same structure on a smaller scale. He gave away most of his fortune, which was built at steelworks such as Homestead, where a wage dispute in 1892 led to a lockout and a gun battle that killed ten people.<sup>9</sup> On Pogge’s reasoning, the first question to ask about such a fortune concerns what its holder owes because of how it was made, before any question about how much he chooses to give. Charity can supply emergency food or fund clinics, as the previous paragraph notes, and an obligation grounded in justice calls for changing the arrangements that produce the need. That is why the state, with its power to alter rules and redistribute through taxation, belongs at the centre of the answer.
 
-Governments possess unique capabilities and distinct moral mandates. Public institutions can raise revenue through progressive taxation and establish legal entitlements to basic necessities. State programmes distribute financial responsibility across society as a whole, preventing the burden of support from falling exclusively on exceptionally generous individuals.
+Governments have unparalleled means and distinct moral mandates. Public institutions can raise revenue through progressive taxation and establish legal entitlements to basic necessities. State programmes distribute financial responsibility across society as a whole, preventing the burden of support from falling exclusively on exceptionally generous individuals.
 
 Individual obligations remain in place alongside state responsibility. Public institutions often fail to reach marginalised groups or respond swiftly during acute emergencies. Individual contributions and civic engagement address immediate gaps in official services while pressuring governments to uphold their systemic duties. Personal giving and political advocacy reinforce one another in the pursuit of justice.
 
@@ -83,11 +83,11 @@ An ethical danger arises when private charity becomes a justification for state 
 
 ### What do we owe to others?
 
-Classifying all assistance as voluntary generosity shields affluent individuals from ethical evaluation. Peter Singer demonstrates that when a person can prevent profound suffering at a proportionate personal cost, aiding others constitutes an obligation. Distance and unfamiliarity do not diminish this duty.<sup>2</sup>
+Classifying all assistance as voluntary generosity shields affluent individuals from moral judgement. Peter Singer demonstrates that when a person can prevent profound suffering at a proportionate personal cost, aiding others constitutes an obligation. Distance and unfamiliarity do not diminish this duty.<sup>2</sup>
 
 Susan Wolf’s critique protects the diversity of human life from being suppressed under single-minded moral demands. An ethical life can include personal passions and loving relationships.<sup>3</sup> A coherent moral life balances responsiveness to urgent global needs with the pursuit of personal projects.
 
-Clear numerical formulas cannot dictate the exact boundary between personal expenditure and obligatory giving for every individual. People face diverse financial circumstances and family commitments. Yet this complexity demands sustained personal reflection, not simple indifference.
+Clear numerical formulas cannot dictate the exact boundary between personal expenditure and obligatory giving for every individual. People face diverse financial circumstances and family commitments, but this complexity demands sustained personal reflection, not indifference.
 
 Assisting people in severe peril should be expected as an ethical duty. When human need is acute and the required sacrifice remains proportionate, refusing to help warrants moral criticism. Distinguishing between obligation and discretionary generosity is an important step toward building an honest and responsible moral life.
 
