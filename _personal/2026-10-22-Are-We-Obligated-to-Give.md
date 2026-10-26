@@ -83,9 +83,7 @@ An ethical danger arises when private charity becomes a justification for state 
 
 ### What do we owe to others?
 
-Classifying all assistance as voluntary generosity shields affluent individuals from moral judgement. Peter Singer demonstrates that when a person can prevent profound suffering at a proportionate personal cost, aiding others constitutes an obligation. Distance and unfamiliarity do not diminish this duty.<sup>2</sup>
-
-Susan Wolf’s critique protects the diversity of human life from being suppressed under single-minded moral demands. An ethical life can include personal passions and loving relationships.<sup>3</sup> A coherent moral life balances responsiveness to urgent global needs with the pursuit of personal projects.
+Singer’s pond shows that giving cannot be treated as an optional extra. When a person can prevent profound suffering at small cost to themselves, helping is a duty, and distance and unfamiliarity leave it intact.<sup>2</sup> Treating all assistance as voluntary generosity shields affluent people from moral judgement, and the existence of other people who could also help leaves each person’s share in place. The duty cannot be unlimited, though. A life spent entirely on moral demands would leave out the friendships, work, and creative pursuits that give life its texture, as Wolf argues.<sup>3</sup> Kant’s idea of an imperfect duty protects that space by leaving the occasions and amounts to individual judgement, and it also leaves open how much is enough.<sup>5</sup> That is why a fixed minimum is useful --  *zakat* shows how one can work: a set share of wealth, owed by everyone above a threshold, with generosity beyond it left to the giver.
 
 Clear numerical formulas cannot dictate the exact boundary between personal expenditure and obligatory giving for every individual. People face diverse financial circumstances and family commitments, but this complexity demands sustained personal reflection, not indifference.
 
