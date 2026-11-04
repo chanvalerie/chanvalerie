@@ -21,7 +21,7 @@ Anyway, here’s what reading Dostoevsky has taught me, for whatever that says a
 ___
 
 #### 1. Self-awareness is useless without the willingness to change
-*Notes From the Underground*
+_**Notes From the Underground**_
 
 The Underground Man is perhaps one of the most fascinating characters in literature. He is acutely aware of his own shortcomings. He recognises his vanity, resentment, insecurity, and the contradictions that govern his behaviour. He can identify precisely why he does things, often while acknowledging how ridiculous those things are. Yet this extraordinary capacity for introspection does very little to improve his life. If anything, it makes him more miserable.
 
@@ -37,7 +37,7 @@ There is a point at which introspection becomes another way of avoiding the diff
 &nbsp; 
 
 #### 2. Be suspicious of your own justifications
-*Crime and Punishment*
+_**Crime and Punishment**_
 
 Raskolnikov's theory in Crime and Punishment is one of the most interesting explorations of self-deception in literature. He divides humanity into ordinary and extraordinary individuals, arguing that certain exceptional people possess the right to transgress conventional morality in pursuit of a greater purpose. He invokes figures such as Napoleon to support his argument, convincing himself that some individuals must be willing to step beyond the boundaries imposed upon everyone else.
 
@@ -57,7 +57,7 @@ Raskolnikov serves as a reminder to question the motives behind convictions, par
 &nbsp; 
 
 #### 3. Never let your pride become more important than your happiness
-*Notes From the Underground*
+_**Notes From the Underground**_
 
 If the first lesson concerns being trapped by one's own thoughts, this one concerns being trapped by one's own ego.
 
@@ -79,7 +79,7 @@ Not every disagreement needs a winner, not every slight requires a response, and
 &nbsp; 
 
 #### 4. Being kind in a cruel world does not make you an idiot
-*The Idiot*
+_**The Idiot**_
 
 Prince Myshkin is perhaps one of Dostoevsky's most unusual protagonists. He enters a society governed by vanity, social competition, manipulation, and self-interest with an almost disarming sincerity. He is compassionate towards people who are cruel to him, sees dignity in those whom society dismisses, and rarely approaches another person with the intention of gaining something from them.
 
@@ -105,7 +105,7 @@ There is something admirable about refusing to let the world's cruelty dictate t
 &nbsp; 
 
 #### 5. A meaningful life is built through love and responsibility towards others.
-*The Brothers Karamazov*
+_**The Brothers Karamazov**_
 
 For all its philosophical arguments about God, morality, suffering, and the nature of existence, The Brothers Karamazov ultimately offers a remarkably practical understanding of how to live.
 
