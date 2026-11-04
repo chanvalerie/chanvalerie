@@ -17,9 +17,10 @@ date: 2026-10-04
 Few writers make the human mind feel quite so contradictory as Fyodor Dostoevsky. Dostoevsky’s own life was marked by political persecution, a death sentence that was commuted at the last moment, and years of imprisonment and forced labour in Siberia. These experiences shaped a body of work concerned with morality, faith, freedom, and suffering. More than a century after his death, his novels continue to resonate with readers, and he remains one of my favourite authors for the way his work challenges me to reconsider what I think I know about people, including myself.
 
 Anyway, here’s what reading Dostoevsky has taught me, for whatever that says about my social life and how well-adjusted I am.
+
 ___
 
-### 1. Self-awareness is useless without the willingness to change
+#### 1. Self-awareness is useless without the willingness to change
 *Notes From the Underground*
 
 The Underground Man is perhaps one of the most fascinating characters in literature. He is acutely aware of his own shortcomings. He recognises his vanity, resentment, insecurity, and the contradictions that govern his behaviour. He can identify precisely why he does things, often while acknowledging how ridiculous those things are. Yet this extraordinary capacity for introspection does very little to improve his life. If anything, it makes him more miserable.
@@ -33,8 +34,9 @@ This is a trap that extends well beyond the Underground Man. It is easy to belie
 Self-awareness can become a rather sophisticated form of procrastination. People can spend years analysing their shortcomings, tracing them to childhood experiences or past relationships, without ever addressing the behaviour itself. Explanations may provide understanding, but they do not remove responsibility.
 
 There is a point at which introspection becomes another way of avoiding the difficult work of change. Understanding oneself is only useful when that understanding translates into action. Perhaps genuine self-awareness begins when the question shifts from why someone behaves a certain way to what they intend to do about it.
+&nbsp; 
 
-### 2. Be suspicious of your own justifications
+#### 2. Be suspicious of your own justifications
 *Crime and Punishment*
 
 Raskolnikov's theory in Crime and Punishment is one of the most interesting explorations of self-deception in literature. He divides humanity into ordinary and extraordinary individuals, arguing that certain exceptional people possess the right to transgress conventional morality in pursuit of a greater purpose. He invokes figures such as Napoleon to support his argument, convincing himself that some individuals must be willing to step beyond the boundaries imposed upon everyone else.
@@ -52,8 +54,9 @@ This is particularly apparent in disagreements. When someone feels hurt, it is n
 Intelligence offers little protection against this. In fact, the ability to reason persuasively can make self-deception considerably more sophisticated.
 
 Raskolnikov serves as a reminder to question the motives behind convictions, particularly when those convictions place their owner in a position of moral superiority. Sometimes the most important question is not whether an argument is logically sound, but what the person making it is trying to protect.
+&nbsp; 
 
-### 3. Never let your pride become more important than your happiness
+#### 3. Never let your pride become more important than your happiness
 *Notes From the Underground*
 
 If the first lesson concerns being trapped by one's own thoughts, this one concerns being trapped by one's own ego.
@@ -73,8 +76,9 @@ There is also a particular cost to allowing pride to govern relationships. Apolo
 The Underground Man illustrates the absurdity of this arrangement. His need to preserve his dignity repeatedly deprives him of the possibility of genuine connection.
 
 Not every disagreement needs a winner, not every slight requires a response, and not everyone needs to understand or validate another person's perspective. Sometimes the most dignified thing a person can do is stop trying to prove their dignity in the first place.
+&nbsp; 
 
-### 4. Being kind in a cruel world does not make you an idiot
+#### 4. Being kind in a cruel world does not make you an idiot
 *The Idiot*
 
 Prince Myshkin is perhaps one of Dostoevsky's most unusual protagonists. He enters a society governed by vanity, social competition, manipulation, and self-interest with an almost disarming sincerity. He is compassionate towards people who are cruel to him, sees dignity in those whom society dismisses, and rarely approaches another person with the intention of gaining something from them.
@@ -98,8 +102,9 @@ This introduces an important qualification: kindness should not require the aban
 Perhaps the real challenge is to remain kind without becoming naive, and to remain open-hearted without making oneself entirely defenceless.
 
 There is something admirable about refusing to let the world's cruelty dictate the kind of person one becomes. Being occasionally mistaken for an idiot because of an unwillingness to abandon kindness seems a far better fate than becoming someone who mistakes cruelty for intelligence.
+&nbsp; 
 
-### 5. A meaningful life is built through love and responsibility towards others.
+#### 5. A meaningful life is built through love and responsibility towards others.
 *The Brothers Karamazov*
 
 For all its philosophical arguments about God, morality, suffering, and the nature of existence, The Brothers Karamazov ultimately offers a remarkably practical understanding of how to live.
