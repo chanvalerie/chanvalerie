@@ -17,6 +17,7 @@ date: 2026-10-04
 Few writers make the human mind feel quite so contradictory as Fyodor Dostoevsky. Dostoevsky’s own life was marked by political persecution, a death sentence that was commuted at the last moment, and years of imprisonment and forced labour in Siberia. These experiences shaped a body of work concerned with morality, faith, freedom, and suffering. More than a century after his death, his novels continue to resonate with readers, and he remains one of my favourite authors for the way his work challenges me to reconsider what I think I know about people, including myself.
 
 Anyway, here’s what reading Dostoevsky has taught me, for whatever that says about my social life and how well-adjusted I am.
+
 &nbsp;
 
 #### 1. Self-awareness is useless without the willingness to change
@@ -33,6 +34,7 @@ This is a trap that extends well beyond the Underground Man. It is easy to belie
 Self-awareness can become a rather sophisticated form of procrastination. People can spend years analysing their shortcomings, tracing them to childhood experiences or past relationships, without ever addressing the behaviour itself. Explanations may provide understanding, but they do not remove responsibility.
 
 There is a point at which introspection becomes another way of avoiding the difficult work of change. Understanding oneself is only useful when that understanding translates into action. Perhaps genuine self-awareness begins when the question shifts from why someone behaves a certain way to what they intend to do about it.
+
 &nbsp; 
 
 #### 2. Be suspicious of your own justifications
@@ -53,6 +55,7 @@ This is particularly apparent in disagreements. When someone feels hurt, it is n
 Intelligence offers little protection against this. In fact, the ability to reason persuasively can make self-deception considerably more sophisticated.
 
 Raskolnikov serves as a reminder to question the motives behind convictions, particularly when those convictions place their owner in a position of moral superiority. Sometimes the most important question is not whether an argument is logically sound, but what the person making it is trying to protect.
+
 &nbsp; 
 
 #### 3. Never let your pride become more important than your happiness
@@ -75,6 +78,7 @@ There is also a particular cost to allowing pride to govern relationships. Apolo
 The Underground Man illustrates the absurdity of this arrangement. His need to preserve his dignity repeatedly deprives him of the possibility of genuine connection.
 
 Not every disagreement needs a winner, not every slight requires a response, and not everyone needs to understand or validate another person's perspective. Sometimes the most dignified thing a person can do is stop trying to prove their dignity in the first place.
+
 &nbsp; 
 
 #### 4. Being kind in a cruel world does not make you an idiot
@@ -101,6 +105,7 @@ This introduces an important qualification: kindness should not require the aban
 Perhaps the real challenge is to remain kind without becoming naive, and to remain open-hearted without making oneself entirely defenceless.
 
 There is something admirable about refusing to let the world's cruelty dictate the kind of person one becomes. Being occasionally mistaken for an idiot because of an unwillingness to abandon kindness seems a far better fate than becoming someone who mistakes cruelty for intelligence.
+
 &nbsp; 
 
 #### 5. A meaningful life is built through love and responsibility towards others.
