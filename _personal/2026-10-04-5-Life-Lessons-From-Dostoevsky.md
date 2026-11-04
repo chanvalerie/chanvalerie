@@ -135,6 +135,8 @@ Being a good person is less about having the correct philosophy and more about w
 
 ___
 
+&nbsp;
+
 What I find most remarkable about Dostoevsky is that his novels have made me more conscious of the ways in which I can be my own worst enemy. I can overthink when I should act, rationalise when I should be honest, and allow my pride to interfere with things I care about. I can spend so much time trying to understand why other people behave the way they do that I forget to examine my own behaviour with the same scrutiny.
 
 His characters have also made me more sympathetic towards the contradictions that exist in other people. It is easy to judge someone by their worst moments, particularly when those moments have hurt us. It is harder to recognise that they, too, are navigating their own insecurities, fears, and internal conflicts. Understanding this does not require excusing everything people do. It simply requires resisting the temptation to reduce an entire person to a single experience of them.
