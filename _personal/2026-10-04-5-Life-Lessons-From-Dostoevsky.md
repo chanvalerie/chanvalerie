@@ -1,8 +1,8 @@
-#---
+---
 layout: post
 title: "5 Life Lessons From Dostoevsky"
 date: 2026-10-04
-#---
+---
 
 # 5 Life Lessons From Dostoevsky
 
