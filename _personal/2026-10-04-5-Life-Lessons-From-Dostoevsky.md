@@ -143,3 +143,5 @@ Dostoevsky's novels offer few comfortable conclusions about human nature. They r
 
 I have no intention of becoming someone without contradictions. Dostoevsky's characters suggest that contradictions are inseparable from being human. The goal is to become a little less defensive, a little more honest with oneself, and a little more generous towards others.
 
+су́ка блядь!
+
