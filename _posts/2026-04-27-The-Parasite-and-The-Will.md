@@ -18,7 +18,7 @@ Responsiveness to reasons provides a clear standard for separating helpful influ
 
 Recognising hidden bodily influences actually widens our freedom of action. Jon Elster pointed to the story of Ulysses binding himself to the ship's mast, a deliberate strategy allowing the sailor to hear the Sirens while preventing a disastrous response.<sup>16</sup> People use similar tactics when keeping junk food out of the house or maintaining regular sleep hours to protect their mood. Discoveries about gut bacteria add new tools to this familiar practice, treating internal impulses as physical events we can manage. Changing one's diet to foster beneficial bacteria fits this approach, though firm clinical evidence that diet can precisely steer mood remains in its early stages.
 
-The lesson of the infected rat is that our internal desires can stem from causes structured to serve another organism's survival. Freedom in a physical world is a continuous practice rather than a fixed possession. Individuals learn which bodily forces act upon them, then shape their surroundings so their daily choices follow reasons they endorse. The science of parasites and gut bacteria reinforces this need, calling for close attention to the biological roots of our strongest desires.
+The lesson of the infected rat is that our internal desires can stem from causes structured to serve another organism's survival. Freedom in a physical world is a continuous practice rather than a fixed possession. Individuals learn which bodily forces act upon them, then shape their surroundings so their daily choices follow reasons they endorse. The science of parasites and gut bacteria reinforces this need, calling to attention the biological roots of our strongest desires.
 
 ---
 &nbsp;
