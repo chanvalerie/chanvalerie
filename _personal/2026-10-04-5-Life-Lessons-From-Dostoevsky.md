@@ -23,9 +23,7 @@ Anyway, here’s what reading Dostoevsky has taught me, for whatever that says a
 #### **1. Self-awareness is useless without the willingness to change**
 _**Notes From the Underground**_
 
-The Underground Man spends much of Notes From the Underground examining his own thoughts and behaviour. He recognises his vanity, resentment, insecurity, and the contradictions that govern his actions. He knows when he is being ridiculous, understands the reasons behind his behaviour, and can articulate his shortcomings with remarkable clarity. His self-awareness does very little to improve his life. If anything, it makes him more miserable.
-
-He spends so much time analysing his own consciousness that he becomes incapable of acting upon it. He anticipates humiliation before it happens, imagines how others perceive him, and constructs elaborate explanations for his unhappiness. The simplest social interactions become intellectual exercises; he would rather spend hours contemplating an action than risk actually taking it.
+Throughout _Notes From the Underground_, Dostoevsky presents a protagonist whose consciousness has become an obstacle to his own existence. The Underground Man is deeply conscious of his flaws and contradictions, but remains incapable of breaking the patterns that govern his behaviour. His tendency to anticipate humiliation and dwell on imagined grievances colours his perception of the world around him. Ordinary interactions become occasions for elaborate internal deliberation, leaving him increasingly detached from others and unable to act spontaneously. His introspection becomes another source of suffering, and introspection is useless without any willingness to change.
 
 The Underground Man mistakes an understanding of his behaviour for control over it. He repeatedly falls into the same patterns, almost taking pleasure in his ability to recognise his misery while remaining unwilling to escape it.
 
