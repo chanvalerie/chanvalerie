@@ -33,7 +33,7 @@ These conditions apply to many contemporary aid efforts. When assistance can pre
 
 ### Must morality come before everything else?
 
-Singer’s standard becomes increasingly demanding as one traces its logical conclusion. If every expenditure beyond basic sustenance should be converted into life-saving aid, then every hour of leisure and every professional decision must undergo strict utilitarian scrutiny. An individual would have to evaluate career options solely by their earning potential for philanthropic donation, turning daily life into an unrelenting calculation of utility.<sup>2,4</sup> 
+Singer’s standard becomes increasingly demanding as one traces its logical conclusion. If every expenditure beyond basic sustenance should be converted into life-saving aid, then every hour of leisure and every professional decision must undergo strict utilitarian scrutiny. An individual would have to evaluate career options solely by their earning potential for philanthropic donation.<sup>2,4</sup> 
 
 Susan Wolf identifies the costs of such total devotion in *Moral Saints*. She analyses the concept of a person whose every action seeks the greatest moral good, whether out of pure altruism or strict obedience to duty. Wolf argues that such an ideal is fundamentally flawed because it excludes non-moral virtues. A moral saint cannot cultivate artistic talents or master crafts, because such endeavours consume resources that could relieve human hardship.
 
